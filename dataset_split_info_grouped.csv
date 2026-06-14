@@ -1,0 +1,1801 @@
+file,label,group,set
+new_dataset_raw\Dry\download (2)_resized_flipped_vertical.jpg,dry,download (2),train
+new_dataset_raw\Dry\download (2)_resized_resized.jpg,dry,download (2),train
+new_dataset_raw\Dry\download (2)_resized_rotated_180.jpg,dry,download (2),train
+new_dataset_raw\Dry\download (2)_resized_rotated_180_flipped_horizontal.jpg,dry,download (2),train
+new_dataset_raw\Dry\download (2)_resized_rotated_180_flipped_vertical.jpg,dry,download (2),train
+new_dataset_raw\Dry\download (2)_resized_rotated_90.jpg,dry,download (2),train
+new_dataset_raw\Dry\download (2)_resized_rotated_90_flipped_horizontal.jpg,dry,download (2),train
+new_dataset_raw\Dry\download (2)_resized_rotated_90_flipped_vertical.jpg,dry,download (2),train
+new_dataset_raw\Dry\dry(32)_resized_flipped_horizontal.jpg,dry,dry(32),train
+new_dataset_raw\Dry\dry(32)_resized_flipped_vertical.jpg,dry,dry(32),train
+new_dataset_raw\Dry\dry(32)_resized_resized.jpg,dry,dry(32),train
+new_dataset_raw\Dry\dry(32)_resized_rotated_180.jpg,dry,dry(32),train
+new_dataset_raw\Dry\dry(32)_resized_rotated_180_flipped_horizontal.jpg,dry,dry(32),train
+new_dataset_raw\Dry\dry(32)_resized_rotated_180_flipped_vertical.jpg,dry,dry(32),train
+new_dataset_raw\Dry\dry(32)_resized_rotated_90_flipped_horizontal.jpg,dry,dry(32),train
+new_dataset_raw\Dry\dry(32)_resized_rotated_90_flipped_vertical.jpg,dry,dry(32),train
+new_dataset_raw\Dry\images (10)_resized_flipped_vertical.jpg,dry,images (10),train
+new_dataset_raw\Dry\images (10)_resized_resized.jpg,dry,images (10),train
+new_dataset_raw\Dry\images (10)_resized_rotated_180_flipped_horizontal.jpg,dry,images (10),train
+new_dataset_raw\Dry\images (10)_resized_rotated_180_flipped_vertical.jpg,dry,images (10),train
+new_dataset_raw\Dry\images (10)_resized_rotated_90.jpg,dry,images (10),train
+new_dataset_raw\Dry\images (10)_resized_rotated_90_flipped_horizontal.jpg,dry,images (10),train
+new_dataset_raw\Dry\images (12)_resized_resized.jpg,dry,images (12),train
+new_dataset_raw\Dry\images (12)_resized_rotated_180_flipped_horizontal.jpg,dry,images (12),train
+new_dataset_raw\Dry\images (12)_resized_rotated_180_flipped_vertical.jpg,dry,images (12),train
+new_dataset_raw\Dry\images (12)_resized_rotated_90.jpg,dry,images (12),train
+new_dataset_raw\Dry\images (12)_resized_rotated_90_flipped_horizontal.jpg,dry,images (12),train
+new_dataset_raw\Dry\images (12)_resized_rotated_90_flipped_vertical.jpg,dry,images (12),train
+new_dataset_raw\Dry\images (13)_resized_flipped_horizontal.jpg,dry,images (13),train
+new_dataset_raw\Dry\images (13)_resized_flipped_vertical.jpg,dry,images (13),train
+new_dataset_raw\Dry\images (13)_resized_resized.jpg,dry,images (13),train
+new_dataset_raw\Dry\images (13)_resized_rotated_180.jpg,dry,images (13),train
+new_dataset_raw\Dry\images (13)_resized_rotated_180_flipped_horizontal.jpg,dry,images (13),train
+new_dataset_raw\Dry\images (13)_resized_rotated_180_flipped_vertical.jpg,dry,images (13),train
+new_dataset_raw\Dry\images (13)_resized_rotated_90.jpg,dry,images (13),train
+new_dataset_raw\Dry\images (14)_resized_flipped_vertical.jpg,dry,images (14),train
+new_dataset_raw\Dry\images (14)_resized_resized.jpg,dry,images (14),train
+new_dataset_raw\Dry\images (14)_resized_rotated_180.jpg,dry,images (14),train
+new_dataset_raw\Dry\images (14)_resized_rotated_180_flipped_horizontal.jpg,dry,images (14),train
+new_dataset_raw\Dry\images (14)_resized_rotated_90.jpg,dry,images (14),train
+new_dataset_raw\Dry\images (14)_resized_rotated_90_flipped_horizontal.jpg,dry,images (14),train
+new_dataset_raw\Dry\images (14)_resized_rotated_90_flipped_vertical.jpg,dry,images (14),train
+new_dataset_raw\Dry\images (15)_resized_flipped_vertical.jpg,dry,images (15),train
+new_dataset_raw\Dry\images (15)_resized_resized.jpg,dry,images (15),train
+new_dataset_raw\Dry\images (15)_resized_rotated_180.jpg,dry,images (15),train
+new_dataset_raw\Dry\images (15)_resized_rotated_180_flipped_horizontal.jpg,dry,images (15),train
+new_dataset_raw\Dry\images (15)_resized_rotated_180_flipped_vertical.jpg,dry,images (15),train
+new_dataset_raw\Dry\images (15)_resized_rotated_90_flipped_horizontal.jpg,dry,images (15),train
+new_dataset_raw\Dry\images (15)_resized_rotated_90_flipped_vertical.jpg,dry,images (15),train
+new_dataset_raw\Dry\images (17)_resized_flipped_horizontal.jpg,dry,images (17),train
+new_dataset_raw\Dry\images (17)_resized_flipped_vertical.jpg,dry,images (17),train
+new_dataset_raw\Dry\images (17)_resized_resized.jpg,dry,images (17),train
+new_dataset_raw\Dry\images (17)_resized_rotated_180.jpg,dry,images (17),train
+new_dataset_raw\Dry\images (17)_resized_rotated_90.jpg,dry,images (17),train
+new_dataset_raw\Dry\images (17)_resized_rotated_90_flipped_horizontal.jpg,dry,images (17),train
+new_dataset_raw\Dry\images (17)_resized_rotated_90_flipped_vertical.jpg,dry,images (17),train
+new_dataset_raw\Dry\images (19)_resized_flipped_horizontal.jpg,dry,images (19),train
+new_dataset_raw\Dry\images (19)_resized_flipped_vertical.jpg,dry,images (19),train
+new_dataset_raw\Dry\images (19)_resized_rotated_180.jpg,dry,images (19),train
+new_dataset_raw\Dry\images (19)_resized_rotated_180_flipped_horizontal.jpg,dry,images (19),train
+new_dataset_raw\Dry\images (19)_resized_rotated_180_flipped_vertical.jpg,dry,images (19),train
+new_dataset_raw\Dry\images (19)_resized_rotated_90_flipped_vertical.jpg,dry,images (19),train
+new_dataset_raw\Dry\images (2)_resized_flipped_vertical.jpg,dry,images (2),train
+new_dataset_raw\Dry\images (2)_resized_resized.jpg,dry,images (2),train
+new_dataset_raw\Dry\images (2)_resized_rotated_180.jpg,dry,images (2),train
+new_dataset_raw\Dry\images (2)_resized_rotated_180_flipped_horizontal.jpg,dry,images (2),train
+new_dataset_raw\Dry\images (2)_resized_rotated_180_flipped_vertical.jpg,dry,images (2),train
+new_dataset_raw\Dry\images (2)_resized_rotated_90.jpg,dry,images (2),train
+new_dataset_raw\Dry\images (2)_resized_rotated_90_flipped_horizontal.jpg,dry,images (2),train
+new_dataset_raw\Dry\images (2)_resized_rotated_90_flipped_vertical.jpg,dry,images (2),train
+new_dataset_raw\Dry\images (20)_resized_flipped_horizontal.jpg,dry,images (20),train
+new_dataset_raw\Dry\images (20)_resized_flipped_vertical.jpg,dry,images (20),train
+new_dataset_raw\Dry\images (20)_resized_resized.jpg,dry,images (20),train
+new_dataset_raw\Dry\images (20)_resized_rotated_90.jpg,dry,images (20),train
+new_dataset_raw\Dry\images (20)_resized_rotated_90_flipped_horizontal.jpg,dry,images (20),train
+new_dataset_raw\Dry\images (20)_resized_rotated_90_flipped_vertical.jpg,dry,images (20),train
+new_dataset_raw\Dry\images (24)_resized_flipped_horizontal.jpg,dry,images (24),train
+new_dataset_raw\Dry\images (24)_resized_flipped_vertical.jpg,dry,images (24),train
+new_dataset_raw\Dry\images (24)_resized_resized.jpg,dry,images (24),train
+new_dataset_raw\Dry\images (24)_resized_rotated_180_flipped_horizontal.jpg,dry,images (24),train
+new_dataset_raw\Dry\images (24)_resized_rotated_180_flipped_vertical.jpg,dry,images (24),train
+new_dataset_raw\Dry\images (24)_resized_rotated_90.jpg,dry,images (24),train
+new_dataset_raw\Dry\images (24)_resized_rotated_90_flipped_horizontal.jpg,dry,images (24),train
+new_dataset_raw\Dry\images (24)_resized_rotated_90_flipped_vertical.jpg,dry,images (24),train
+new_dataset_raw\Dry\images (25)_resized_flipped_horizontal.jpg,dry,images (25),train
+new_dataset_raw\Dry\images (25)_resized_rotated_180.jpg,dry,images (25),train
+new_dataset_raw\Dry\images (25)_resized_rotated_180_flipped_horizontal.jpg,dry,images (25),train
+new_dataset_raw\Dry\images (25)_resized_rotated_180_flipped_vertical.jpg,dry,images (25),train
+new_dataset_raw\Dry\images (25)_resized_rotated_90.jpg,dry,images (25),train
+new_dataset_raw\Dry\images (25)_resized_rotated_90_flipped_horizontal.jpg,dry,images (25),train
+new_dataset_raw\Dry\images (25)_resized_rotated_90_flipped_vertical.jpg,dry,images (25),train
+new_dataset_raw\Dry\images (26)_resized_flipped_vertical.jpg,dry,images (26),train
+new_dataset_raw\Dry\images (26)_resized_resized.jpg,dry,images (26),train
+new_dataset_raw\Dry\images (26)_resized_rotated_180_flipped_horizontal.jpg,dry,images (26),train
+new_dataset_raw\Dry\images (26)_resized_rotated_180_flipped_vertical.jpg,dry,images (26),train
+new_dataset_raw\Dry\images (26)_resized_rotated_90.jpg,dry,images (26),train
+new_dataset_raw\Dry\images (26)_resized_rotated_90_flipped_horizontal.jpg,dry,images (26),train
+new_dataset_raw\Dry\images (27)_resized_flipped_horizontal.jpg,dry,images (27),train
+new_dataset_raw\Dry\images (27)_resized_flipped_vertical.jpg,dry,images (27),train
+new_dataset_raw\Dry\images (27)_resized_resized.jpg,dry,images (27),train
+new_dataset_raw\Dry\images (27)_resized_rotated_180.jpg,dry,images (27),train
+new_dataset_raw\Dry\images (27)_resized_rotated_180_flipped_horizontal.jpg,dry,images (27),train
+new_dataset_raw\Dry\images (27)_resized_rotated_180_flipped_vertical.jpg,dry,images (27),train
+new_dataset_raw\Dry\images (27)_resized_rotated_90_flipped_horizontal.jpg,dry,images (27),train
+new_dataset_raw\Dry\images (27)_resized_rotated_90_flipped_vertical.jpg,dry,images (27),train
+new_dataset_raw\Dry\images (29)_resized_flipped_horizontal.jpg,dry,images (29),train
+new_dataset_raw\Dry\images (29)_resized_flipped_vertical.jpg,dry,images (29),train
+new_dataset_raw\Dry\images (29)_resized_resized.jpg,dry,images (29),train
+new_dataset_raw\Dry\images (29)_resized_rotated_180.jpg,dry,images (29),train
+new_dataset_raw\Dry\images (29)_resized_rotated_180_flipped_horizontal.jpg,dry,images (29),train
+new_dataset_raw\Dry\images (29)_resized_rotated_180_flipped_vertical.jpg,dry,images (29),train
+new_dataset_raw\Dry\images (29)_resized_rotated_90.jpg,dry,images (29),train
+new_dataset_raw\Dry\images (3)_resized_flipped_horizontal.jpg,dry,images (3),train
+new_dataset_raw\Dry\images (3)_resized_flipped_vertical.jpg,dry,images (3),train
+new_dataset_raw\Dry\images (3)_resized_resized.jpg,dry,images (3),train
+new_dataset_raw\Dry\images (3)_resized_rotated_180.jpg,dry,images (3),train
+new_dataset_raw\Dry\images (3)_resized_rotated_180_flipped_horizontal.jpg,dry,images (3),train
+new_dataset_raw\Dry\images (3)_resized_rotated_180_flipped_vertical.jpg,dry,images (3),train
+new_dataset_raw\Dry\images (3)_resized_rotated_90_flipped_horizontal.jpg,dry,images (3),train
+new_dataset_raw\Dry\images (3)_resized_rotated_90_flipped_vertical.jpg,dry,images (3),train
+new_dataset_raw\Dry\images (30)_resized_flipped_vertical.jpg,dry,images (30),train
+new_dataset_raw\Dry\images (30)_resized_resized.jpg,dry,images (30),train
+new_dataset_raw\Dry\images (30)_resized_rotated_180.jpg,dry,images (30),train
+new_dataset_raw\Dry\images (30)_resized_rotated_180_flipped_horizontal.jpg,dry,images (30),train
+new_dataset_raw\Dry\images (30)_resized_rotated_90.jpg,dry,images (30),train
+new_dataset_raw\Dry\images (30)_resized_rotated_90_flipped_horizontal.jpg,dry,images (30),train
+new_dataset_raw\Dry\images (30)_resized_rotated_90_flipped_vertical.jpg,dry,images (30),train
+new_dataset_raw\Dry\images (31)_resized_flipped_vertical.jpg,dry,images (31),train
+new_dataset_raw\Dry\images (31)_resized_resized.jpg,dry,images (31),train
+new_dataset_raw\Dry\images (31)_resized_rotated_180.jpg,dry,images (31),train
+new_dataset_raw\Dry\images (31)_resized_rotated_180_flipped_horizontal.jpg,dry,images (31),train
+new_dataset_raw\Dry\images (31)_resized_rotated_180_flipped_vertical.jpg,dry,images (31),train
+new_dataset_raw\Dry\images (31)_resized_rotated_90_flipped_horizontal.jpg,dry,images (31),train
+new_dataset_raw\Dry\images (31)_resized_rotated_90_flipped_vertical.jpg,dry,images (31),train
+new_dataset_raw\Dry\images (32)_resized_flipped_horizontal.jpg,dry,images (32),train
+new_dataset_raw\Dry\images (32)_resized_flipped_vertical.jpg,dry,images (32),train
+new_dataset_raw\Dry\images (32)_resized_resized.jpg,dry,images (32),train
+new_dataset_raw\Dry\images (32)_resized_rotated_180_flipped_horizontal.jpg,dry,images (32),train
+new_dataset_raw\Dry\images (32)_resized_rotated_180_flipped_vertical.jpg,dry,images (32),train
+new_dataset_raw\Dry\images (32)_resized_rotated_90_flipped_vertical.jpg,dry,images (32),train
+new_dataset_raw\Dry\images (33)_resized_flipped_horizontal.jpg,dry,images (33),train
+new_dataset_raw\Dry\images (33)_resized_flipped_vertical.jpg,dry,images (33),train
+new_dataset_raw\Dry\images (33)_resized_resized.jpg,dry,images (33),train
+new_dataset_raw\Dry\images (33)_resized_rotated_180.jpg,dry,images (33),train
+new_dataset_raw\Dry\images (33)_resized_rotated_90.jpg,dry,images (33),train
+new_dataset_raw\Dry\images (33)_resized_rotated_90_flipped_horizontal.jpg,dry,images (33),train
+new_dataset_raw\Dry\images (33)_resized_rotated_90_flipped_vertical.jpg,dry,images (33),train
+new_dataset_raw\Dry\images (35)_resized_flipped_horizontal.jpg,dry,images (35),train
+new_dataset_raw\Dry\images (35)_resized_flipped_vertical.jpg,dry,images (35),train
+new_dataset_raw\Dry\images (35)_resized_rotated_180.jpg,dry,images (35),train
+new_dataset_raw\Dry\images (35)_resized_rotated_180_flipped_horizontal.jpg,dry,images (35),train
+new_dataset_raw\Dry\images (35)_resized_rotated_180_flipped_vertical.jpg,dry,images (35),train
+new_dataset_raw\Dry\images (35)_resized_rotated_90_flipped_vertical.jpg,dry,images (35),train
+new_dataset_raw\Dry\images (36)_resized_flipped_horizontal.jpg,dry,images (36),train
+new_dataset_raw\Dry\images (36)_resized_flipped_vertical.jpg,dry,images (36),train
+new_dataset_raw\Dry\images (36)_resized_resized.jpg,dry,images (36),train
+new_dataset_raw\Dry\images (36)_resized_rotated_90.jpg,dry,images (36),train
+new_dataset_raw\Dry\images (36)_resized_rotated_90_flipped_horizontal.jpg,dry,images (36),train
+new_dataset_raw\Dry\images (36)_resized_rotated_90_flipped_vertical.jpg,dry,images (36),train
+new_dataset_raw\Dry\images (39)_resized_flipped_horizontal.jpg,dry,images (39),train
+new_dataset_raw\Dry\images (39)_resized_flipped_vertical.jpg,dry,images (39),train
+new_dataset_raw\Dry\images (39)_resized_resized.jpg,dry,images (39),train
+new_dataset_raw\Dry\images (39)_resized_rotated_180_flipped_vertical.jpg,dry,images (39),train
+new_dataset_raw\Dry\images (39)_resized_rotated_90_flipped_horizontal.jpg,dry,images (39),train
+new_dataset_raw\Dry\images (39)_resized_rotated_90_flipped_vertical.jpg,dry,images (39),train
+new_dataset_raw\Dry\images (4)_resized_flipped_horizontal.jpg,dry,images (4),train
+new_dataset_raw\Dry\images (4)_resized_flipped_vertical.jpg,dry,images (4),train
+new_dataset_raw\Dry\images (4)_resized_resized.jpg,dry,images (4),train
+new_dataset_raw\Dry\images (4)_resized_rotated_180_flipped_horizontal.jpg,dry,images (4),train
+new_dataset_raw\Dry\images (4)_resized_rotated_180_flipped_vertical.jpg,dry,images (4),train
+new_dataset_raw\Dry\images (4)_resized_rotated_90.jpg,dry,images (4),train
+new_dataset_raw\Dry\images (4)_resized_rotated_90_flipped_horizontal.jpg,dry,images (4),train
+new_dataset_raw\Dry\images (4)_resized_rotated_90_flipped_vertical.jpg,dry,images (4),train
+new_dataset_raw\Dry\images (40)_resized_flipped_horizontal.jpg,dry,images (40),train
+new_dataset_raw\Dry\images (40)_resized_flipped_vertical.jpg,dry,images (40),train
+new_dataset_raw\Dry\images (40)_resized_resized.jpg,dry,images (40),train
+new_dataset_raw\Dry\images (40)_resized_rotated_180_flipped_horizontal.jpg,dry,images (40),train
+new_dataset_raw\Dry\images (40)_resized_rotated_180_flipped_vertical.jpg,dry,images (40),train
+new_dataset_raw\Dry\images (40)_resized_rotated_90.jpg,dry,images (40),train
+new_dataset_raw\Dry\images (40)_resized_rotated_90_flipped_horizontal.jpg,dry,images (40),train
+new_dataset_raw\Dry\images (40)_resized_rotated_90_flipped_vertical.jpg,dry,images (40),train
+new_dataset_raw\Dry\images (41)_resized_flipped_horizontal.jpg,dry,images (41),train
+new_dataset_raw\Dry\images (41)_resized_rotated_180.jpg,dry,images (41),train
+new_dataset_raw\Dry\images (41)_resized_rotated_180_flipped_horizontal.jpg,dry,images (41),train
+new_dataset_raw\Dry\images (41)_resized_rotated_180_flipped_vertical.jpg,dry,images (41),train
+new_dataset_raw\Dry\images (41)_resized_rotated_90.jpg,dry,images (41),train
+new_dataset_raw\Dry\images (41)_resized_rotated_90_flipped_horizontal.jpg,dry,images (41),train
+new_dataset_raw\Dry\images (41)_resized_rotated_90_flipped_vertical.jpg,dry,images (41),train
+new_dataset_raw\Dry\images (42)_resized_flipped_vertical.jpg,dry,images (42),train
+new_dataset_raw\Dry\images (42)_resized_resized.jpg,dry,images (42),train
+new_dataset_raw\Dry\images (42)_resized_rotated_180_flipped_horizontal.jpg,dry,images (42),train
+new_dataset_raw\Dry\images (42)_resized_rotated_180_flipped_vertical.jpg,dry,images (42),train
+new_dataset_raw\Dry\images (42)_resized_rotated_90.jpg,dry,images (42),train
+new_dataset_raw\Dry\images (42)_resized_rotated_90_flipped_horizontal.jpg,dry,images (42),train
+new_dataset_raw\Dry\images (43)_resized_flipped_horizontal.jpg,dry,images (43),train
+new_dataset_raw\Dry\images (43)_resized_flipped_vertical.jpg,dry,images (43),train
+new_dataset_raw\Dry\images (43)_resized_resized.jpg,dry,images (43),train
+new_dataset_raw\Dry\images (43)_resized_rotated_180.jpg,dry,images (43),train
+new_dataset_raw\Dry\images (43)_resized_rotated_180_flipped_horizontal.jpg,dry,images (43),train
+new_dataset_raw\Dry\images (43)_resized_rotated_180_flipped_vertical.jpg,dry,images (43),train
+new_dataset_raw\Dry\images (43)_resized_rotated_90_flipped_horizontal.jpg,dry,images (43),train
+new_dataset_raw\Dry\images (43)_resized_rotated_90_flipped_vertical.jpg,dry,images (43),train
+new_dataset_raw\Dry\images (5)_resized_flipped_horizontal.jpg,dry,images (5),train
+new_dataset_raw\Dry\images (5)_resized_flipped_vertical.jpg,dry,images (5),train
+new_dataset_raw\Dry\images (5)_resized_resized.jpg,dry,images (5),train
+new_dataset_raw\Dry\images (5)_resized_rotated_180.jpg,dry,images (5),train
+new_dataset_raw\Dry\images (5)_resized_rotated_180_flipped_horizontal.jpg,dry,images (5),train
+new_dataset_raw\Dry\images (5)_resized_rotated_180_flipped_vertical.jpg,dry,images (5),train
+new_dataset_raw\Dry\images (5)_resized_rotated_90.jpg,dry,images (5),train
+new_dataset_raw\Dry\images (5)_resized_rotated_90_flipped_horizontal.jpg,dry,images (5),train
+new_dataset_raw\Dry\images (5)_resized_rotated_90_flipped_vertical.jpg,dry,images (5),train
+new_dataset_raw\Dry\images (7)_resized_flipped_horizontal.jpg,dry,images (7),train
+new_dataset_raw\Dry\images (7)_resized_flipped_vertical.jpg,dry,images (7),train
+new_dataset_raw\Dry\images (7)_resized_resized.jpg,dry,images (7),train
+new_dataset_raw\Dry\images (7)_resized_rotated_180.jpg,dry,images (7),train
+new_dataset_raw\Dry\images (7)_resized_rotated_180_flipped_horizontal.jpg,dry,images (7),train
+new_dataset_raw\Dry\images (7)_resized_rotated_180_flipped_vertical.jpg,dry,images (7),train
+new_dataset_raw\Dry\images (7)_resized_rotated_90_flipped_horizontal.jpg,dry,images (7),train
+new_dataset_raw\Dry\images (7)_resized_rotated_90_flipped_vertical.jpg,dry,images (7),train
+new_dataset_raw\Dry\images (8)_resized_flipped_horizontal.jpg,dry,images (8),train
+new_dataset_raw\Dry\images (8)_resized_flipped_vertical.jpg,dry,images (8),train
+new_dataset_raw\Dry\images (8)_resized_resized.jpg,dry,images (8),train
+new_dataset_raw\Dry\images (8)_resized_rotated_180_flipped_horizontal.jpg,dry,images (8),train
+new_dataset_raw\Dry\images (8)_resized_rotated_180_flipped_vertical.jpg,dry,images (8),train
+new_dataset_raw\Dry\images (8)_resized_rotated_90.jpg,dry,images (8),train
+new_dataset_raw\Dry\images (8)_resized_rotated_90_flipped_horizontal.jpg,dry,images (8),train
+new_dataset_raw\Dry\images (8)_resized_rotated_90_flipped_vertical.jpg,dry,images (8),train
+new_dataset_raw\Dry\images (9)_resized_flipped_horizontal.jpg,dry,images (9),train
+new_dataset_raw\Dry\images (9)_resized_flipped_vertical.jpg,dry,images (9),train
+new_dataset_raw\Dry\images (9)_resized_resized.jpg,dry,images (9),train
+new_dataset_raw\Dry\images (9)_resized_rotated_180.jpg,dry,images (9),train
+new_dataset_raw\Dry\images (9)_resized_rotated_180_flipped_horizontal.jpg,dry,images (9),train
+new_dataset_raw\Dry\images (9)_resized_rotated_180_flipped_vertical.jpg,dry,images (9),train
+new_dataset_raw\Dry\images (9)_resized_rotated_90.jpg,dry,images (9),train
+new_dataset_raw\Dry\images (9)_resized_rotated_90_flipped_horizontal.jpg,dry,images (9),train
+new_dataset_raw\Dry\images (9)_resized_rotated_90_flipped_vertical.jpg,dry,images (9),train
+new_dataset_raw\Dry\images_resized_resized.jpg,dry,images,train
+new_dataset_raw\Dry\images_resized_rotated_180_flipped_horizontal.jpg,dry,images,train
+new_dataset_raw\Dry\images_resized_rotated_180_flipped_vertical.jpg,dry,images,train
+new_dataset_raw\Dry\images_resized_rotated_90.jpg,dry,images,train
+new_dataset_raw\Dry\images_resized_rotated_90_flipped_horizontal.jpg,dry,images,train
+new_dataset_raw\Dry\images_resized_rotated_90_flipped_vertical.jpg,dry,images,train
+new_dataset_raw\Dry\Prendre soin d’une peau sèche (2)_resized_flipped_vertical.jpg,dry,Prendre soin d’une peau sèche (2),train
+new_dataset_raw\Dry\Prendre soin d’une peau sèche (2)_resized_resized.jpg,dry,Prendre soin d’une peau sèche (2),train
+new_dataset_raw\Dry\Prendre soin d’une peau sèche (2)_resized_rotated_180.jpg,dry,Prendre soin d’une peau sèche (2),train
+new_dataset_raw\Dry\Prendre soin d’une peau sèche (2)_resized_rotated_180_flipped_horizontal.jpg,dry,Prendre soin d’une peau sèche (2),train
+new_dataset_raw\Dry\Prendre soin d’une peau sèche (2)_resized_rotated_90.jpg,dry,Prendre soin d’une peau sèche (2),train
+new_dataset_raw\Dry\Prendre soin d’une peau sèche (2)_resized_rotated_90_flipped_horizontal.jpg,dry,Prendre soin d’une peau sèche (2),train
+new_dataset_raw\Dry\Prendre soin d’une peau sèche (2)_resized_rotated_90_flipped_vertical.jpg,dry,Prendre soin d’une peau sèche (2),train
+new_dataset_raw\Normal\image_101.jpg,normal,image_101,train
+new_dataset_raw\Normal\image_104.jpg,normal,image_104,train
+new_dataset_raw\Normal\image_105.jpg,normal,image_105,train
+new_dataset_raw\Normal\image_106.jpg,normal,image_106,train
+new_dataset_raw\Normal\image_107.jpg,normal,image_107,train
+new_dataset_raw\Normal\image_11.jpg,normal,image_11,train
+new_dataset_raw\Normal\image_117.jpg,normal,image_117,train
+new_dataset_raw\Normal\image_118.jpg,normal,image_118,train
+new_dataset_raw\Normal\image_119.jpg,normal,image_119,train
+new_dataset_raw\Normal\image_12.jpg,normal,image_12,train
+new_dataset_raw\Normal\image_120.jpg,normal,image_120,train
+new_dataset_raw\Normal\image_122.jpg,normal,image_122,train
+new_dataset_raw\Normal\image_123.jpg,normal,image_123,train
+new_dataset_raw\Normal\image_129.jpg,normal,image_129,train
+new_dataset_raw\Normal\image_13.jpg,normal,image_13,train
+new_dataset_raw\Normal\image_130.jpg,normal,image_130,train
+new_dataset_raw\Normal\image_132.jpg,normal,image_132,train
+new_dataset_raw\Normal\image_133.jpg,normal,image_133,train
+new_dataset_raw\Normal\image_134.jpg,normal,image_134,train
+new_dataset_raw\Normal\image_135.jpg,normal,image_135,train
+new_dataset_raw\Normal\image_136.jpg,normal,image_136,train
+new_dataset_raw\Normal\image_137.jpg,normal,image_137,train
+new_dataset_raw\Normal\image_141.jpg,normal,image_141,train
+new_dataset_raw\Normal\image_145.jpg,normal,image_145,train
+new_dataset_raw\Normal\image_146.jpg,normal,image_146,train
+new_dataset_raw\Normal\image_147.jpg,normal,image_147,train
+new_dataset_raw\Normal\image_148.jpg,normal,image_148,train
+new_dataset_raw\Normal\image_149.jpg,normal,image_149,train
+new_dataset_raw\Normal\image_154.jpg,normal,image_154,train
+new_dataset_raw\Normal\image_155.jpg,normal,image_155,train
+new_dataset_raw\Normal\image_157.jpg,normal,image_157,train
+new_dataset_raw\Normal\image_161.jpg,normal,image_161,train
+new_dataset_raw\Normal\image_168.jpg,normal,image_168,train
+new_dataset_raw\Normal\image_173.jpg,normal,image_173,train
+new_dataset_raw\Normal\image_174.jpg,normal,image_174,train
+new_dataset_raw\Normal\image_179.jpg,normal,image_179,train
+new_dataset_raw\Normal\image_180.jpg,normal,image_180,train
+new_dataset_raw\Normal\image_182.jpg,normal,image_182,train
+new_dataset_raw\Normal\image_183.jpg,normal,image_183,train
+new_dataset_raw\Normal\image_184.jpg,normal,image_184,train
+new_dataset_raw\Normal\image_186.jpg,normal,image_186,train
+new_dataset_raw\Normal\image_19.jpg,normal,image_19,train
+new_dataset_raw\Normal\image_192.jpg,normal,image_192,train
+new_dataset_raw\Normal\image_193.jpg,normal,image_193,train
+new_dataset_raw\Normal\image_194.jpg,normal,image_194,train
+new_dataset_raw\Normal\image_195.jpg,normal,image_195,train
+new_dataset_raw\Normal\image_196.jpg,normal,image_196,train
+new_dataset_raw\Normal\image_197.jpg,normal,image_197,train
+new_dataset_raw\Normal\image_198.jpg,normal,image_198,train
+new_dataset_raw\Normal\image_20.jpg,normal,image_20,train
+new_dataset_raw\Normal\image_204.jpg,normal,image_204,train
+new_dataset_raw\Normal\image_206.jpg,normal,image_206,train
+new_dataset_raw\Normal\image_207.jpg,normal,image_207,train
+new_dataset_raw\Normal\image_208.jpg,normal,image_208,train
+new_dataset_raw\Normal\image_209.jpg,normal,image_209,train
+new_dataset_raw\Normal\image_21.jpg,normal,image_21,train
+new_dataset_raw\Normal\image_210.jpg,normal,image_210,train
+new_dataset_raw\Normal\image_211.jpg,normal,image_211,train
+new_dataset_raw\Normal\image_212.jpg,normal,image_212,train
+new_dataset_raw\Normal\image_217.jpg,normal,image_217,train
+new_dataset_raw\Normal\image_218.jpg,normal,image_218,train
+new_dataset_raw\Normal\image_219.jpg,normal,image_219,train
+new_dataset_raw\Normal\image_220.jpg,normal,image_220,train
+new_dataset_raw\Normal\image_221.jpg,normal,image_221,train
+new_dataset_raw\Normal\image_222.jpg,normal,image_222,train
+new_dataset_raw\Normal\image_224.jpg,normal,image_224,train
+new_dataset_raw\Normal\image_225.jpg,normal,image_225,train
+new_dataset_raw\Normal\image_229.jpg,normal,image_229,train
+new_dataset_raw\Normal\image_230.jpg,normal,image_230,train
+new_dataset_raw\Normal\image_232.jpg,normal,image_232,train
+new_dataset_raw\Normal\image_233.jpg,normal,image_233,train
+new_dataset_raw\Normal\image_234.jpg,normal,image_234,train
+new_dataset_raw\Normal\image_235.jpg,normal,image_235,train
+new_dataset_raw\Normal\image_24.jpg,normal,image_24,train
+new_dataset_raw\Normal\image_241.jpg,normal,image_241,train
+new_dataset_raw\Normal\image_243.jpg,normal,image_243,train
+new_dataset_raw\Normal\image_244.jpg,normal,image_244,train
+new_dataset_raw\Normal\image_246.jpg,normal,image_246,train
+new_dataset_raw\Normal\image_247.jpg,normal,image_247,train
+new_dataset_raw\Normal\image_248.jpg,normal,image_248,train
+new_dataset_raw\Normal\image_249.jpg,normal,image_249,train
+new_dataset_raw\Normal\image_25.jpg,normal,image_25,train
+new_dataset_raw\Normal\image_253.jpg,normal,image_253,train
+new_dataset_raw\Normal\image_254.jpg,normal,image_254,train
+new_dataset_raw\Normal\image_256.jpg,normal,image_256,train
+new_dataset_raw\Normal\image_257.jpg,normal,image_257,train
+new_dataset_raw\Normal\image_258.jpg,normal,image_258,train
+new_dataset_raw\Normal\image_259.jpg,normal,image_259,train
+new_dataset_raw\Normal\image_266.jpg,normal,image_266,train
+new_dataset_raw\Normal\image_267.jpg,normal,image_267,train
+new_dataset_raw\Normal\image_269.jpg,normal,image_269,train
+new_dataset_raw\Normal\image_270.jpg,normal,image_270,train
+new_dataset_raw\Normal\image_271.jpg,normal,image_271,train
+new_dataset_raw\Normal\image_272.jpg,normal,image_272,train
+new_dataset_raw\Normal\image_273.jpg,normal,image_273,train
+new_dataset_raw\Normal\image_277.jpg,normal,image_277,train
+new_dataset_raw\Normal\image_278.jpg,normal,image_278,train
+new_dataset_raw\Normal\image_279.jpg,normal,image_279,train
+new_dataset_raw\Normal\image_281.jpg,normal,image_281,train
+new_dataset_raw\Normal\image_282.jpg,normal,image_282,train
+new_dataset_raw\Normal\image_283.jpg,normal,image_283,train
+new_dataset_raw\Normal\image_284.jpg,normal,image_284,train
+new_dataset_raw\Normal\image_29.jpg,normal,image_29,train
+new_dataset_raw\Normal\image_290.jpg,normal,image_290,train
+new_dataset_raw\Normal\image_293.jpg,normal,image_293,train
+new_dataset_raw\Normal\image_294.jpg,normal,image_294,train
+new_dataset_raw\Normal\image_296.jpg,normal,image_296,train
+new_dataset_raw\Normal\image_30.jpg,normal,image_30,train
+new_dataset_raw\Normal\image_303.jpg,normal,image_303,train
+new_dataset_raw\Normal\image_305.jpg,normal,image_305,train
+new_dataset_raw\Normal\image_306.jpg,normal,image_306,train
+new_dataset_raw\Normal\image_308.jpg,normal,image_308,train
+new_dataset_raw\Normal\image_309.jpg,normal,image_309,train
+new_dataset_raw\Normal\image_31.jpg,normal,image_31,train
+new_dataset_raw\Normal\image_311.jpg,normal,image_311,train
+new_dataset_raw\Normal\image_312.jpg,normal,image_312,train
+new_dataset_raw\Normal\image_316.jpg,normal,image_316,train
+new_dataset_raw\Normal\image_317.jpg,normal,image_317,train
+new_dataset_raw\Normal\image_318.jpg,normal,image_318,train
+new_dataset_raw\Normal\image_319.jpg,normal,image_319,train
+new_dataset_raw\Normal\image_32.jpg,normal,image_32,train
+new_dataset_raw\Normal\image_320.jpg,normal,image_320,train
+new_dataset_raw\Normal\image_323.jpg,normal,image_323,train
+new_dataset_raw\Normal\image_324.jpg,normal,image_324,train
+new_dataset_raw\Normal\image_325.jpg,normal,image_325,train
+new_dataset_raw\Normal\image_329.jpg,normal,image_329,train
+new_dataset_raw\Normal\image_334.jpg,normal,image_334,train
+new_dataset_raw\Normal\image_335.jpg,normal,image_335,train
+new_dataset_raw\Normal\image_337.jpg,normal,image_337,train
+new_dataset_raw\Normal\image_338.jpg,normal,image_338,train
+new_dataset_raw\Normal\image_339.jpg,normal,image_339,train
+new_dataset_raw\Normal\image_34.jpg,normal,image_34,train
+new_dataset_raw\Normal\image_346.jpg,normal,image_346,train
+new_dataset_raw\Normal\image_35.jpg,normal,image_35,train
+new_dataset_raw\Normal\image_350.jpg,normal,image_350,train
+new_dataset_raw\Normal\image_351.jpg,normal,image_351,train
+new_dataset_raw\Normal\image_352.jpg,normal,image_352,train
+new_dataset_raw\Normal\image_359.jpg,normal,image_359,train
+new_dataset_raw\Normal\image_36.jpg,normal,image_36,train
+new_dataset_raw\Normal\image_360.jpg,normal,image_360,train
+new_dataset_raw\Normal\image_361.jpg,normal,image_361,train
+new_dataset_raw\Normal\image_362.jpg,normal,image_362,train
+new_dataset_raw\Normal\image_363.jpg,normal,image_363,train
+new_dataset_raw\Normal\image_364.jpg,normal,image_364,train
+new_dataset_raw\Normal\image_365.jpg,normal,image_365,train
+new_dataset_raw\Normal\image_366.jpg,normal,image_366,train
+new_dataset_raw\Normal\image_37.jpg,normal,image_37,train
+new_dataset_raw\Normal\image_372.jpg,normal,image_372,train
+new_dataset_raw\Normal\image_373.jpg,normal,image_373,train
+new_dataset_raw\Normal\image_374.jpg,normal,image_374,train
+new_dataset_raw\Normal\image_375.jpg,normal,image_375,train
+new_dataset_raw\Normal\image_376.jpg,normal,image_376,train
+new_dataset_raw\Normal\image_378.jpg,normal,image_378,train
+new_dataset_raw\Normal\image_379.jpg,normal,image_379,train
+new_dataset_raw\Normal\image_380.jpg,normal,image_380,train
+new_dataset_raw\Normal\image_385.jpg,normal,image_385,train
+new_dataset_raw\Normal\image_387.jpg,normal,image_387,train
+new_dataset_raw\Normal\image_388.jpg,normal,image_388,train
+new_dataset_raw\Normal\image_392.jpg,normal,image_392,train
+new_dataset_raw\Normal\image_394.jpg,normal,image_394,train
+new_dataset_raw\Normal\image_395.jpg,normal,image_395,train
+new_dataset_raw\Normal\image_396.jpg,normal,image_396,train
+new_dataset_raw\Normal\image_397.jpg,normal,image_397,train
+new_dataset_raw\Normal\image_398.jpg,normal,image_398,train
+new_dataset_raw\Normal\image_400.jpg,normal,image_400,train
+new_dataset_raw\Normal\image_401.jpg,normal,image_401,train
+new_dataset_raw\Normal\image_402.jpg,normal,image_402,train
+new_dataset_raw\Normal\image_403.jpg,normal,image_403,train
+new_dataset_raw\Normal\image_404.jpg,normal,image_404,train
+new_dataset_raw\Normal\image_405.jpg,normal,image_405,train
+new_dataset_raw\Normal\image_406.jpg,normal,image_406,train
+new_dataset_raw\Normal\image_407.jpg,normal,image_407,train
+new_dataset_raw\Normal\image_408.jpg,normal,image_408,train
+new_dataset_raw\Normal\image_41.jpg,normal,image_41,train
+new_dataset_raw\Normal\image_410.jpg,normal,image_410,train
+new_dataset_raw\Normal\image_411.jpg,normal,image_411,train
+new_dataset_raw\Normal\image_413.jpg,normal,image_413,train
+new_dataset_raw\Normal\image_414.jpg,normal,image_414,train
+new_dataset_raw\Normal\image_418.jpg,normal,image_418,train
+new_dataset_raw\Normal\image_419.jpg,normal,image_419,train
+new_dataset_raw\Normal\image_420.jpg,normal,image_420,train
+new_dataset_raw\Normal\image_421.jpg,normal,image_421,train
+new_dataset_raw\Normal\image_422.jpg,normal,image_422,train
+new_dataset_raw\Normal\image_423.jpg,normal,image_423,train
+new_dataset_raw\Normal\image_426.jpg,normal,image_426,train
+new_dataset_raw\Normal\image_430.jpg,normal,image_430,train
+new_dataset_raw\Normal\image_432.jpg,normal,image_432,train
+new_dataset_raw\Normal\image_433.jpg,normal,image_433,train
+new_dataset_raw\Normal\image_434.jpg,normal,image_434,train
+new_dataset_raw\Normal\image_435.jpg,normal,image_435,train
+new_dataset_raw\Normal\image_44.jpg,normal,image_44,train
+new_dataset_raw\Normal\image_441.jpg,normal,image_441,train
+new_dataset_raw\Normal\image_442.jpg,normal,image_442,train
+new_dataset_raw\Normal\image_443.jpg,normal,image_443,train
+new_dataset_raw\Normal\image_444.jpg,normal,image_444,train
+new_dataset_raw\Normal\image_445.jpg,normal,image_445,train
+new_dataset_raw\Normal\image_448.jpg,normal,image_448,train
+new_dataset_raw\Normal\image_45.jpg,normal,image_45,train
+new_dataset_raw\Normal\image_450.jpg,normal,image_450,train
+new_dataset_raw\Normal\image_451.jpg,normal,image_451,train
+new_dataset_raw\Normal\image_452.jpg,normal,image_452,train
+new_dataset_raw\Normal\image_453.jpg,normal,image_453,train
+new_dataset_raw\Normal\image_454.jpg,normal,image_454,train
+new_dataset_raw\Normal\image_456.jpg,normal,image_456,train
+new_dataset_raw\Normal\image_458.jpg,normal,image_458,train
+new_dataset_raw\Normal\image_459.jpg,normal,image_459,train
+new_dataset_raw\Normal\image_46.jpg,normal,image_46,train
+new_dataset_raw\Normal\image_460.jpg,normal,image_460,train
+new_dataset_raw\Normal\image_463.jpg,normal,image_463,train
+new_dataset_raw\Normal\image_466.jpg,normal,image_466,train
+new_dataset_raw\Normal\image_469.jpg,normal,image_469,train
+new_dataset_raw\Normal\image_47.jpg,normal,image_47,train
+new_dataset_raw\Normal\image_470.jpg,normal,image_470,train
+new_dataset_raw\Normal\image_471.jpg,normal,image_471,train
+new_dataset_raw\Normal\image_472.jpg,normal,image_472,train
+new_dataset_raw\Normal\image_473.jpg,normal,image_473,train
+new_dataset_raw\Normal\image_480.jpg,normal,image_480,train
+new_dataset_raw\Normal\image_481.jpg,normal,image_481,train
+new_dataset_raw\Normal\image_484.jpg,normal,image_484,train
+new_dataset_raw\Normal\image_486.jpg,normal,image_486,train
+new_dataset_raw\Normal\image_488.jpg,normal,image_488,train
+new_dataset_raw\Normal\image_489.jpg,normal,image_489,train
+new_dataset_raw\Normal\image_49.jpg,normal,image_49,train
+new_dataset_raw\Normal\image_492.jpg,normal,image_492,train
+new_dataset_raw\Normal\image_494.jpg,normal,image_494,train
+new_dataset_raw\Normal\image_495.jpg,normal,image_495,train
+new_dataset_raw\Normal\image_496.jpg,normal,image_496,train
+new_dataset_raw\Normal\image_497.jpg,normal,image_497,train
+new_dataset_raw\Normal\image_498.jpg,normal,image_498,train
+new_dataset_raw\Normal\image_54.jpg,normal,image_54,train
+new_dataset_raw\Normal\image_55.jpg,normal,image_55,train
+new_dataset_raw\Normal\image_56.jpg,normal,image_56,train
+new_dataset_raw\Normal\image_57.jpg,normal,image_57,train
+new_dataset_raw\Normal\image_58.jpg,normal,image_58,train
+new_dataset_raw\Normal\image_59.jpg,normal,image_59,train
+new_dataset_raw\Normal\image_60.jpg,normal,image_60,train
+new_dataset_raw\Normal\image_61.jpg,normal,image_61,train
+new_dataset_raw\Normal\image_65.jpg,normal,image_65,train
+new_dataset_raw\Normal\image_67.jpg,normal,image_67,train
+new_dataset_raw\Normal\image_68.jpg,normal,image_68,train
+new_dataset_raw\Normal\image_69.jpg,normal,image_69,train
+new_dataset_raw\Normal\image_71.jpg,normal,image_71,train
+new_dataset_raw\Normal\image_73.jpg,normal,image_73,train
+new_dataset_raw\Normal\image_79.jpg,normal,image_79,train
+new_dataset_raw\Normal\image_81.jpg,normal,image_81,train
+new_dataset_raw\Normal\image_82.jpg,normal,image_82,train
+new_dataset_raw\Normal\image_83.jpg,normal,image_83,train
+new_dataset_raw\Normal\image_84.jpg,normal,image_84,train
+new_dataset_raw\Normal\image_85.jpg,normal,image_85,train
+new_dataset_raw\Normal\image_91.jpg,normal,image_91,train
+new_dataset_raw\Normal\image_92.jpg,normal,image_92,train
+new_dataset_raw\Normal\image_93.jpg,normal,image_93,train
+new_dataset_raw\Normal\image_94.jpg,normal,image_94,train
+new_dataset_raw\Normal\image_95.jpg,normal,image_95,train
+new_dataset_raw\Normal\image_97.jpg,normal,image_97,train
+new_dataset_raw\Oily\c124_resized_flipped_horizontal.jpg,oily,c124,train
+new_dataset_raw\Oily\c124_resized_flipped_vertical.jpg,oily,c124,train
+new_dataset_raw\Oily\c124_resized_resized.jpg,oily,c124,train
+new_dataset_raw\Oily\c124_resized_rotated_180.jpg,oily,c124,train
+new_dataset_raw\Oily\c124_resized_rotated_180_flipped_horizontal.jpg,oily,c124,train
+new_dataset_raw\Oily\c124_resized_rotated_180_flipped_vertical.jpg,oily,c124,train
+new_dataset_raw\Oily\c124_resized_rotated_90.jpg,oily,c124,train
+new_dataset_raw\Oily\c124_resized_rotated_90_flipped_horizontal.jpg,oily,c124,train
+new_dataset_raw\Oily\c124_resized_rotated_90_flipped_vertical.jpg,oily,c124,train
+new_dataset_raw\Oily\c13_resized_flipped_horizontal.jpg,oily,c13,train
+new_dataset_raw\Oily\c13_resized_flipped_vertical.jpg,oily,c13,train
+new_dataset_raw\Oily\c13_resized_resized.jpg,oily,c13,train
+new_dataset_raw\Oily\c13_resized_rotated_180.jpg,oily,c13,train
+new_dataset_raw\Oily\c13_resized_rotated_180_flipped_horizontal.jpg,oily,c13,train
+new_dataset_raw\Oily\c13_resized_rotated_180_flipped_vertical.jpg,oily,c13,train
+new_dataset_raw\Oily\c13_resized_rotated_90.jpg,oily,c13,train
+new_dataset_raw\Oily\c13_resized_rotated_90_flipped_horizontal.jpg,oily,c13,train
+new_dataset_raw\Oily\c13_resized_rotated_90_flipped_vertical.jpg,oily,c13,train
+new_dataset_raw\Oily\c2_resized_flipped_vertical.jpg,oily,c2,train
+new_dataset_raw\Oily\c2_resized_resized.jpg,oily,c2,train
+new_dataset_raw\Oily\c2_resized_rotated_180.jpg,oily,c2,train
+new_dataset_raw\Oily\c2_resized_rotated_180_flipped_horizontal.jpg,oily,c2,train
+new_dataset_raw\Oily\c2_resized_rotated_180_flipped_vertical.jpg,oily,c2,train
+new_dataset_raw\Oily\c2_resized_rotated_90.jpg,oily,c2,train
+new_dataset_raw\Oily\c2_resized_rotated_90_flipped_horizontal.jpg,oily,c2,train
+new_dataset_raw\Oily\c2_resized_rotated_90_flipped_vertical.jpg,oily,c2,train
+new_dataset_raw\Oily\c34_resized_flipped_horizontal.jpg,oily,c34,train
+new_dataset_raw\Oily\c34_resized_flipped_vertical.jpg,oily,c34,train
+new_dataset_raw\Oily\c34_resized_resized.jpg,oily,c34,train
+new_dataset_raw\Oily\c34_resized_rotated_180.jpg,oily,c34,train
+new_dataset_raw\Oily\c34_resized_rotated_180_flipped_horizontal.jpg,oily,c34,train
+new_dataset_raw\Oily\c34_resized_rotated_180_flipped_vertical.jpg,oily,c34,train
+new_dataset_raw\Oily\c34_resized_rotated_90.jpg,oily,c34,train
+new_dataset_raw\Oily\c34_resized_rotated_90_flipped_horizontal.jpg,oily,c34,train
+new_dataset_raw\Oily\c34_resized_rotated_90_flipped_vertical.jpg,oily,c34,train
+new_dataset_raw\Oily\c47_resized_flipped_vertical.jpg,oily,c47,train
+new_dataset_raw\Oily\c47_resized_resized.jpg,oily,c47,train
+new_dataset_raw\Oily\c47_resized_rotated_180.jpg,oily,c47,train
+new_dataset_raw\Oily\c47_resized_rotated_180_flipped_horizontal.jpg,oily,c47,train
+new_dataset_raw\Oily\c47_resized_rotated_180_flipped_vertical.jpg,oily,c47,train
+new_dataset_raw\Oily\c47_resized_rotated_90.jpg,oily,c47,train
+new_dataset_raw\Oily\c47_resized_rotated_90_flipped_horizontal.jpg,oily,c47,train
+new_dataset_raw\Oily\c47_resized_rotated_90_flipped_vertical.jpg,oily,c47,train
+new_dataset_raw\Oily\c86_resized_flipped_horizontal.jpg,oily,c86,train
+new_dataset_raw\Oily\c86_resized_flipped_vertical.jpg,oily,c86,train
+new_dataset_raw\Oily\c86_resized_resized.jpg,oily,c86,train
+new_dataset_raw\Oily\c86_resized_rotated_180.jpg,oily,c86,train
+new_dataset_raw\Oily\c86_resized_rotated_180_flipped_horizontal.jpg,oily,c86,train
+new_dataset_raw\Oily\c86_resized_rotated_180_flipped_vertical.jpg,oily,c86,train
+new_dataset_raw\Oily\c86_resized_rotated_90_flipped_horizontal.jpg,oily,c86,train
+new_dataset_raw\Oily\c86_resized_rotated_90_flipped_vertical.jpg,oily,c86,train
+new_dataset_raw\Oily\images (2)_resized_flipped_vertical.jpg,oily,images (2),train
+new_dataset_raw\Oily\images (2)_resized_resized.jpg,oily,images (2),train
+new_dataset_raw\Oily\images (2)_resized_rotated_180.jpg,oily,images (2),train
+new_dataset_raw\Oily\images (2)_resized_rotated_180_flipped_horizontal.jpg,oily,images (2),train
+new_dataset_raw\Oily\images (2)_resized_rotated_90.jpg,oily,images (2),train
+new_dataset_raw\Oily\images (2)_resized_rotated_90_flipped_horizontal.jpg,oily,images (2),train
+new_dataset_raw\Oily\images (2)_resized_rotated_90_flipped_vertical.jpg,oily,images (2),train
+new_dataset_raw\Oily\images_resized_flipped_vertical.jpg,oily,images,train
+new_dataset_raw\Oily\images_resized_resized.jpg,oily,images,train
+new_dataset_raw\Oily\images_resized_rotated_180.jpg,oily,images,train
+new_dataset_raw\Oily\images_resized_rotated_180_flipped_horizontal.jpg,oily,images,train
+new_dataset_raw\Oily\images_resized_rotated_180_flipped_vertical.jpg,oily,images,train
+new_dataset_raw\Oily\images_resized_rotated_90_flipped_horizontal.jpg,oily,images,train
+new_dataset_raw\Oily\images_resized_rotated_90_flipped_vertical.jpg,oily,images,train
+new_dataset_raw\Oily\image_601 - Copy_resized_resized.jpg,oily,image_601,train
+new_dataset_raw\Oily\image_601 - Copy_resized_rotated_180_flipped_horizontal.jpg,oily,image_601,train
+new_dataset_raw\Oily\image_601 - Copy_resized_rotated_180_flipped_vertical.jpg,oily,image_601,train
+new_dataset_raw\Oily\image_601 - Copy_resized_rotated_90.jpg,oily,image_601,train
+new_dataset_raw\Oily\image_601 - Copy_resized_rotated_90_flipped_horizontal.jpg,oily,image_601,train
+new_dataset_raw\Oily\image_601 - Copy_resized_rotated_90_flipped_vertical.jpg,oily,image_601,train
+new_dataset_raw\Oily\istockphoto-1151145485-612x612_resized_flipped_horizontal.jpg,oily,istockphoto-1151145485-612x612,train
+new_dataset_raw\Oily\istockphoto-1151145485-612x612_resized_flipped_vertical.jpg,oily,istockphoto-1151145485-612x612,train
+new_dataset_raw\Oily\istockphoto-1151145485-612x612_resized_rotated_180.jpg,oily,istockphoto-1151145485-612x612,train
+new_dataset_raw\Oily\istockphoto-1151145485-612x612_resized_rotated_180_flipped_horizontal.jpg,oily,istockphoto-1151145485-612x612,train
+new_dataset_raw\Oily\istockphoto-1151145485-612x612_resized_rotated_180_flipped_vertical.jpg,oily,istockphoto-1151145485-612x612,train
+new_dataset_raw\Oily\istockphoto-1151145485-612x612_resized_rotated_90_flipped_vertical.jpg,oily,istockphoto-1151145485-612x612,train
+new_dataset_raw\Oily\istockphoto-1401300991-612x612_resized_flipped_horizontal.jpg,oily,istockphoto-1401300991-612x612,train
+new_dataset_raw\Oily\istockphoto-1401300991-612x612_resized_flipped_vertical.jpg,oily,istockphoto-1401300991-612x612,train
+new_dataset_raw\Oily\istockphoto-1401300991-612x612_resized_resized.jpg,oily,istockphoto-1401300991-612x612,train
+new_dataset_raw\Oily\istockphoto-1401300991-612x612_resized_rotated_180.jpg,oily,istockphoto-1401300991-612x612,train
+new_dataset_raw\Oily\istockphoto-1401300991-612x612_resized_rotated_180_flipped_horizontal.jpg,oily,istockphoto-1401300991-612x612,train
+new_dataset_raw\Oily\istockphoto-1401300991-612x612_resized_rotated_180_flipped_vertical.jpg,oily,istockphoto-1401300991-612x612,train
+new_dataset_raw\Oily\istockphoto-1401300991-612x612_resized_rotated_90.jpg,oily,istockphoto-1401300991-612x612,train
+new_dataset_raw\Oily\istockphoto-1401300991-612x612_resized_rotated_90_flipped_horizontal.jpg,oily,istockphoto-1401300991-612x612,train
+new_dataset_raw\Oily\istockphoto-1401300991-612x612_resized_rotated_90_flipped_vertical.jpg,oily,istockphoto-1401300991-612x612,train
+new_dataset_raw\Oily\istockphoto-1445376040-612x612_resized_flipped_vertical.jpg,oily,istockphoto-1445376040-612x612,train
+new_dataset_raw\Oily\istockphoto-1445376040-612x612_resized_rotated_180.jpg,oily,istockphoto-1445376040-612x612,train
+new_dataset_raw\Oily\istockphoto-1445376040-612x612_resized_rotated_180_flipped_horizontal.jpg,oily,istockphoto-1445376040-612x612,train
+new_dataset_raw\Oily\istockphoto-1445376040-612x612_resized_rotated_180_flipped_vertical.jpg,oily,istockphoto-1445376040-612x612,train
+new_dataset_raw\Oily\istockphoto-1445376040-612x612_resized_rotated_90_flipped_horizontal.jpg,oily,istockphoto-1445376040-612x612,train
+new_dataset_raw\Oily\istockphoto-1445376040-612x612_resized_rotated_90_flipped_vertical.jpg,oily,istockphoto-1445376040-612x612,train
+new_dataset_raw\Oily\istockphoto-1446819788-612x612_resized_flipped_horizontal.jpg,oily,istockphoto-1446819788-612x612,train
+new_dataset_raw\Oily\istockphoto-1446819788-612x612_resized_flipped_vertical.jpg,oily,istockphoto-1446819788-612x612,train
+new_dataset_raw\Oily\istockphoto-1446819788-612x612_resized_resized.jpg,oily,istockphoto-1446819788-612x612,train
+new_dataset_raw\Oily\istockphoto-1446819788-612x612_resized_rotated_180_flipped_vertical.jpg,oily,istockphoto-1446819788-612x612,train
+new_dataset_raw\Oily\istockphoto-1446819788-612x612_resized_rotated_90_flipped_horizontal.jpg,oily,istockphoto-1446819788-612x612,train
+new_dataset_raw\Oily\istockphoto-1446819788-612x612_resized_rotated_90_flipped_vertical.jpg,oily,istockphoto-1446819788-612x612,train
+new_dataset_raw\Oily\istockphoto-1483199891-612x612_resized_flipped_horizontal.jpg,oily,istockphoto-1483199891-612x612,train
+new_dataset_raw\Oily\istockphoto-1483199891-612x612_resized_flipped_vertical.jpg,oily,istockphoto-1483199891-612x612,train
+new_dataset_raw\Oily\istockphoto-1483199891-612x612_resized_resized.jpg,oily,istockphoto-1483199891-612x612,train
+new_dataset_raw\Oily\istockphoto-1483199891-612x612_resized_rotated_180_flipped_horizontal.jpg,oily,istockphoto-1483199891-612x612,train
+new_dataset_raw\Oily\istockphoto-1483199891-612x612_resized_rotated_180_flipped_vertical.jpg,oily,istockphoto-1483199891-612x612,train
+new_dataset_raw\Oily\istockphoto-1483199891-612x612_resized_rotated_90.jpg,oily,istockphoto-1483199891-612x612,train
+new_dataset_raw\Oily\istockphoto-1483199891-612x612_resized_rotated_90_flipped_horizontal.jpg,oily,istockphoto-1483199891-612x612,train
+new_dataset_raw\Oily\istockphoto-1483199891-612x612_resized_rotated_90_flipped_vertical.jpg,oily,istockphoto-1483199891-612x612,train
+new_dataset_raw\Oily\istockphoto-1497112165-612x612_resized_flipped_horizontal.jpg,oily,istockphoto-1497112165-612x612,train
+new_dataset_raw\Oily\istockphoto-1497112165-612x612_resized_rotated_180.jpg,oily,istockphoto-1497112165-612x612,train
+new_dataset_raw\Oily\istockphoto-1497112165-612x612_resized_rotated_180_flipped_horizontal.jpg,oily,istockphoto-1497112165-612x612,train
+new_dataset_raw\Oily\istockphoto-1497112165-612x612_resized_rotated_180_flipped_vertical.jpg,oily,istockphoto-1497112165-612x612,train
+new_dataset_raw\Oily\istockphoto-1497112165-612x612_resized_rotated_90.jpg,oily,istockphoto-1497112165-612x612,train
+new_dataset_raw\Oily\istockphoto-1497112165-612x612_resized_rotated_90_flipped_horizontal.jpg,oily,istockphoto-1497112165-612x612,train
+new_dataset_raw\Oily\istockphoto-1497112165-612x612_resized_rotated_90_flipped_vertical.jpg,oily,istockphoto-1497112165-612x612,train
+new_dataset_raw\Oily\istockphoto-1528534233-612x612_resized_flipped_vertical.jpg,oily,istockphoto-1528534233-612x612,train
+new_dataset_raw\Oily\istockphoto-1528534233-612x612_resized_resized.jpg,oily,istockphoto-1528534233-612x612,train
+new_dataset_raw\Oily\istockphoto-1528534233-612x612_resized_rotated_180_flipped_horizontal.jpg,oily,istockphoto-1528534233-612x612,train
+new_dataset_raw\Oily\istockphoto-1528534233-612x612_resized_rotated_180_flipped_vertical.jpg,oily,istockphoto-1528534233-612x612,train
+new_dataset_raw\Oily\istockphoto-1528534233-612x612_resized_rotated_90.jpg,oily,istockphoto-1528534233-612x612,train
+new_dataset_raw\Oily\istockphoto-1528534233-612x612_resized_rotated_90_flipped_horizontal.jpg,oily,istockphoto-1528534233-612x612,train
+new_dataset_raw\Oily\istockphoto-1806512561-612x612_resized_resized.jpg,oily,istockphoto-1806512561-612x612,train
+new_dataset_raw\Oily\istockphoto-1806512561-612x612_resized_rotated_180_flipped_horizontal.jpg,oily,istockphoto-1806512561-612x612,train
+new_dataset_raw\Oily\istockphoto-1806512561-612x612_resized_rotated_180_flipped_vertical.jpg,oily,istockphoto-1806512561-612x612,train
+new_dataset_raw\Oily\istockphoto-1806512561-612x612_resized_rotated_90.jpg,oily,istockphoto-1806512561-612x612,train
+new_dataset_raw\Oily\istockphoto-1806512561-612x612_resized_rotated_90_flipped_horizontal.jpg,oily,istockphoto-1806512561-612x612,train
+new_dataset_raw\Oily\istockphoto-1806512561-612x612_resized_rotated_90_flipped_vertical.jpg,oily,istockphoto-1806512561-612x612,train
+new_dataset_raw\Oily\istockphoto-1844221377-612x612_resized_flipped_horizontal.jpg,oily,istockphoto-1844221377-612x612,train
+new_dataset_raw\Oily\istockphoto-1844221377-612x612_resized_flipped_vertical.jpg,oily,istockphoto-1844221377-612x612,train
+new_dataset_raw\Oily\istockphoto-1844221377-612x612_resized_resized.jpg,oily,istockphoto-1844221377-612x612,train
+new_dataset_raw\Oily\istockphoto-1844221377-612x612_resized_rotated_180.jpg,oily,istockphoto-1844221377-612x612,train
+new_dataset_raw\Oily\istockphoto-1844221377-612x612_resized_rotated_180_flipped_horizontal.jpg,oily,istockphoto-1844221377-612x612,train
+new_dataset_raw\Oily\istockphoto-1844221377-612x612_resized_rotated_180_flipped_vertical.jpg,oily,istockphoto-1844221377-612x612,train
+new_dataset_raw\Oily\istockphoto-1844221377-612x612_resized_rotated_90.jpg,oily,istockphoto-1844221377-612x612,train
+new_dataset_raw\Oily\istockphoto-828754502-612x612_resized_flipped_horizontal.jpg,oily,istockphoto-828754502-612x612,train
+new_dataset_raw\Oily\istockphoto-828754502-612x612_resized_flipped_vertical.jpg,oily,istockphoto-828754502-612x612,train
+new_dataset_raw\Oily\istockphoto-828754502-612x612_resized_resized.jpg,oily,istockphoto-828754502-612x612,train
+new_dataset_raw\Oily\istockphoto-828754502-612x612_resized_rotated_180.jpg,oily,istockphoto-828754502-612x612,train
+new_dataset_raw\Oily\istockphoto-828754502-612x612_resized_rotated_90.jpg,oily,istockphoto-828754502-612x612,train
+new_dataset_raw\Oily\istockphoto-828754502-612x612_resized_rotated_90_flipped_horizontal.jpg,oily,istockphoto-828754502-612x612,train
+new_dataset_raw\Oily\istockphoto-828754502-612x612_resized_rotated_90_flipped_vertical.jpg,oily,istockphoto-828754502-612x612,train
+new_dataset_raw\Oily\oily(108)_resized_flipped_vertical.jpg,oily,oily(108),train
+new_dataset_raw\Oily\oily(108)_resized_resized.jpg,oily,oily(108),train
+new_dataset_raw\Oily\oily(108)_resized_rotated_180.jpg,oily,oily(108),train
+new_dataset_raw\Oily\oily(108)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(108),train
+new_dataset_raw\Oily\oily(108)_resized_rotated_180_flipped_vertical.jpg,oily,oily(108),train
+new_dataset_raw\Oily\oily(108)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(108),train
+new_dataset_raw\Oily\oily(108)_resized_rotated_90_flipped_vertical.jpg,oily,oily(108),train
+new_dataset_raw\Oily\oily(31)_resized_flipped_vertical.jpg,oily,oily(31),train
+new_dataset_raw\Oily\oily(31)_resized_resized.jpg,oily,oily(31),train
+new_dataset_raw\Oily\oily(31)_resized_rotated_180.jpg,oily,oily(31),train
+new_dataset_raw\Oily\oily(31)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(31),train
+new_dataset_raw\Oily\oily(31)_resized_rotated_90.jpg,oily,oily(31),train
+new_dataset_raw\Oily\oily(31)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(31),train
+new_dataset_raw\Oily\oily(31)_resized_rotated_90_flipped_vertical.jpg,oily,oily(31),train
+new_dataset_raw\Oily\oily(51)_resized_flipped_vertical.jpg,oily,oily(51),train
+new_dataset_raw\Oily\oily(51)_resized_resized.jpg,oily,oily(51),train
+new_dataset_raw\Oily\oily(51)_resized_rotated_180.jpg,oily,oily(51),train
+new_dataset_raw\Oily\oily(51)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(51),train
+new_dataset_raw\Oily\oily(51)_resized_rotated_180_flipped_vertical.jpg,oily,oily(51),train
+new_dataset_raw\Oily\oily(51)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(51),train
+new_dataset_raw\Oily\oily(51)_resized_rotated_90_flipped_vertical.jpg,oily,oily(51),train
+new_dataset_raw\Oily\oily(54)_resized_flipped_horizontal.jpg,oily,oily(54),train
+new_dataset_raw\Oily\oily(54)_resized_flipped_vertical.jpg,oily,oily(54),train
+new_dataset_raw\Oily\oily(54)_resized_resized.jpg,oily,oily(54),train
+new_dataset_raw\Oily\oily(54)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(54),train
+new_dataset_raw\Oily\oily(54)_resized_rotated_180_flipped_vertical.jpg,oily,oily(54),train
+new_dataset_raw\Oily\oily(54)_resized_rotated_90_flipped_vertical.jpg,oily,oily(54),train
+new_dataset_raw\Oily\oily(75)_resized_flipped_horizontal.jpg,oily,oily(75),train
+new_dataset_raw\Oily\oily(75)_resized_flipped_vertical.jpg,oily,oily(75),train
+new_dataset_raw\Oily\oily(75)_resized_resized.jpg,oily,oily(75),train
+new_dataset_raw\Oily\oily(75)_resized_rotated_180.jpg,oily,oily(75),train
+new_dataset_raw\Oily\oily(75)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(75),train
+new_dataset_raw\Oily\oily(75)_resized_rotated_180_flipped_vertical.jpg,oily,oily(75),train
+new_dataset_raw\Oily\oily(75)_resized_rotated_90.jpg,oily,oily(75),train
+new_dataset_raw\Oily\oily(75)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(75),train
+new_dataset_raw\Oily\oily(75)_resized_rotated_90_flipped_vertical.jpg,oily,oily(75),train
+new_dataset_raw\Oily\oily(76)_resized_flipped_vertical.jpg,oily,oily(76),train
+new_dataset_raw\Oily\oily(76)_resized_rotated_180.jpg,oily,oily(76),train
+new_dataset_raw\Oily\oily(76)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(76),train
+new_dataset_raw\Oily\oily(76)_resized_rotated_180_flipped_vertical.jpg,oily,oily(76),train
+new_dataset_raw\Oily\oily(76)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(76),train
+new_dataset_raw\Oily\oily(76)_resized_rotated_90_flipped_vertical.jpg,oily,oily(76),train
+new_dataset_raw\Oily\oily(78)_resized_flipped_horizontal.jpg,oily,oily(78),train
+new_dataset_raw\Oily\oily(78)_resized_flipped_vertical.jpg,oily,oily(78),train
+new_dataset_raw\Oily\oily(78)_resized_resized.jpg,oily,oily(78),train
+new_dataset_raw\Oily\oily(78)_resized_rotated_180_flipped_vertical.jpg,oily,oily(78),train
+new_dataset_raw\Oily\oily(78)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(78),train
+new_dataset_raw\Oily\oily(78)_resized_rotated_90_flipped_vertical.jpg,oily,oily(78),train
+new_dataset_raw\Oily\oily(83)_resized_flipped_horizontal.jpg,oily,oily(83),train
+new_dataset_raw\Oily\oily(83)_resized_rotated_180.jpg,oily,oily(83),train
+new_dataset_raw\Oily\oily(83)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(83),train
+new_dataset_raw\Oily\oily(83)_resized_rotated_180_flipped_vertical.jpg,oily,oily(83),train
+new_dataset_raw\Oily\oily(83)_resized_rotated_90.jpg,oily,oily(83),train
+new_dataset_raw\Oily\oily(83)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(83),train
+new_dataset_raw\Oily\oily(83)_resized_rotated_90_flipped_vertical.jpg,oily,oily(83),train
+new_dataset_raw\Oily\oily(86)_resized_resized.jpg,oily,oily(86),train
+new_dataset_raw\Oily\oily(86)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(86),train
+new_dataset_raw\Oily\oily(86)_resized_rotated_180_flipped_vertical.jpg,oily,oily(86),train
+new_dataset_raw\Oily\oily(86)_resized_rotated_90.jpg,oily,oily(86),train
+new_dataset_raw\Oily\oily(86)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(86),train
+new_dataset_raw\Oily\oily(86)_resized_rotated_90_flipped_vertical.jpg,oily,oily(86),train
+new_dataset_raw\Sensitive\image_139_resized_flipped_horizontal.jpg,sensitive,image_139,train
+new_dataset_raw\Sensitive\image_139_resized_flipped_vertical.jpg,sensitive,image_139,train
+new_dataset_raw\Sensitive\image_139_resized_resized.jpg,sensitive,image_139,train
+new_dataset_raw\Sensitive\image_139_resized_rotated_180.jpg,sensitive,image_139,train
+new_dataset_raw\Sensitive\image_139_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_139,train
+new_dataset_raw\Sensitive\image_139_resized_rotated_180_flipped_vertical.jpg,sensitive,image_139,train
+new_dataset_raw\Sensitive\image_139_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_139,train
+new_dataset_raw\Sensitive\image_139_resized_rotated_90_flipped_vertical.jpg,sensitive,image_139,train
+new_dataset_raw\Sensitive\image_141_resized_flipped_horizontal.jpg,sensitive,image_141,train
+new_dataset_raw\Sensitive\image_141_resized_flipped_vertical.jpg,sensitive,image_141,train
+new_dataset_raw\Sensitive\image_141_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_141,train
+new_dataset_raw\Sensitive\image_141_resized_rotated_180_flipped_vertical.jpg,sensitive,image_141,train
+new_dataset_raw\Sensitive\image_141_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_141,train
+new_dataset_raw\Sensitive\image_141_resized_rotated_90_flipped_vertical.jpg,sensitive,image_141,train
+new_dataset_raw\Sensitive\image_149_resized_flipped_horizontal.jpg,sensitive,image_149,train
+new_dataset_raw\Sensitive\image_149_resized_flipped_vertical.jpg,sensitive,image_149,train
+new_dataset_raw\Sensitive\image_149_resized_resized.jpg,sensitive,image_149,train
+new_dataset_raw\Sensitive\image_149_resized_rotated_180_flipped_vertical.jpg,sensitive,image_149,train
+new_dataset_raw\Sensitive\image_149_resized_rotated_90.jpg,sensitive,image_149,train
+new_dataset_raw\Sensitive\image_149_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_149,train
+new_dataset_raw\Sensitive\image_149_resized_rotated_90_flipped_vertical.jpg,sensitive,image_149,train
+new_dataset_raw\Sensitive\image_235_resized_flipped_vertical.jpg,sensitive,image_235,train
+new_dataset_raw\Sensitive\image_235_resized_resized.jpg,sensitive,image_235,train
+new_dataset_raw\Sensitive\image_235_resized_rotated_180.jpg,sensitive,image_235,train
+new_dataset_raw\Sensitive\image_235_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_235,train
+new_dataset_raw\Sensitive\image_235_resized_rotated_180_flipped_vertical.jpg,sensitive,image_235,train
+new_dataset_raw\Sensitive\image_235_resized_rotated_90.jpg,sensitive,image_235,train
+new_dataset_raw\Sensitive\image_235_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_235,train
+new_dataset_raw\Sensitive\image_235_resized_rotated_90_flipped_vertical.jpg,sensitive,image_235,train
+new_dataset_raw\Sensitive\image_240_resized_flipped_horizontal.jpg,sensitive,image_240,train
+new_dataset_raw\Sensitive\image_240_resized_flipped_vertical.jpg,sensitive,image_240,train
+new_dataset_raw\Sensitive\image_240_resized_resized.jpg,sensitive,image_240,train
+new_dataset_raw\Sensitive\image_240_resized_rotated_180_flipped_vertical.jpg,sensitive,image_240,train
+new_dataset_raw\Sensitive\image_240_resized_rotated_90.jpg,sensitive,image_240,train
+new_dataset_raw\Sensitive\image_240_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_240,train
+new_dataset_raw\Sensitive\image_305_resized_rotated_180.jpg,sensitive,image_305,train
+new_dataset_raw\Sensitive\image_305_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_305,train
+new_dataset_raw\Sensitive\image_305_resized_rotated_180_flipped_vertical.jpg,sensitive,image_305,train
+new_dataset_raw\Sensitive\image_305_resized_rotated_90.jpg,sensitive,image_305,train
+new_dataset_raw\Sensitive\image_305_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_305,train
+new_dataset_raw\Sensitive\image_305_resized_rotated_90_flipped_vertical.jpg,sensitive,image_305,train
+new_dataset_raw\Sensitive\image_316 - Copy_resized_resized.jpg,sensitive,image_316,train
+new_dataset_raw\Sensitive\image_316 - Copy_resized_rotated_180.jpg,sensitive,image_316,train
+new_dataset_raw\Sensitive\image_316 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_316,train
+new_dataset_raw\Sensitive\image_316 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_316,train
+new_dataset_raw\Sensitive\image_316 - Copy_resized_rotated_90.jpg,sensitive,image_316,train
+new_dataset_raw\Sensitive\image_316 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_316,train
+new_dataset_raw\Sensitive\image_316 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_316,train
+new_dataset_raw\Sensitive\image_348 - Copy_resized_flipped_vertical.jpg,sensitive,image_348,train
+new_dataset_raw\Sensitive\image_348 - Copy_resized_resized.jpg,sensitive,image_348,train
+new_dataset_raw\Sensitive\image_348 - Copy_resized_rotated_180.jpg,sensitive,image_348,train
+new_dataset_raw\Sensitive\image_348 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_348,train
+new_dataset_raw\Sensitive\image_348 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_348,train
+new_dataset_raw\Sensitive\image_348 - Copy_resized_rotated_90.jpg,sensitive,image_348,train
+new_dataset_raw\Sensitive\image_374 - Copy_resized_flipped_horizontal.jpg,sensitive,image_374,train
+new_dataset_raw\Sensitive\image_374 - Copy_resized_flipped_vertical.jpg,sensitive,image_374,train
+new_dataset_raw\Sensitive\image_374 - Copy_resized_resized.jpg,sensitive,image_374,train
+new_dataset_raw\Sensitive\image_374 - Copy_resized_rotated_180.jpg,sensitive,image_374,train
+new_dataset_raw\Sensitive\image_374 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_374,train
+new_dataset_raw\Sensitive\image_374 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_374,train
+new_dataset_raw\Sensitive\image_374 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_374,train
+new_dataset_raw\Sensitive\image_385 - Copy_resized_flipped_horizontal.jpg,sensitive,image_385,train
+new_dataset_raw\Sensitive\image_385 - Copy_resized_flipped_vertical.jpg,sensitive,image_385,train
+new_dataset_raw\Sensitive\image_385 - Copy_resized_resized.jpg,sensitive,image_385,train
+new_dataset_raw\Sensitive\image_385 - Copy_resized_rotated_180.jpg,sensitive,image_385,train
+new_dataset_raw\Sensitive\image_385 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_385,train
+new_dataset_raw\Sensitive\image_385 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_385,train
+new_dataset_raw\Sensitive\image_385 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_385,train
+new_dataset_raw\Sensitive\image_387 - Copy_resized_flipped_vertical.jpg,sensitive,image_387,train
+new_dataset_raw\Sensitive\image_387 - Copy_resized_resized.jpg,sensitive,image_387,train
+new_dataset_raw\Sensitive\image_387 - Copy_resized_rotated_180.jpg,sensitive,image_387,train
+new_dataset_raw\Sensitive\image_387 - Copy_resized_rotated_90.jpg,sensitive,image_387,train
+new_dataset_raw\Sensitive\image_387 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_387,train
+new_dataset_raw\Sensitive\image_387 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_387,train
+new_dataset_raw\Sensitive\image_396 - Copy_resized_flipped_horizontal.jpg,sensitive,image_396,train
+new_dataset_raw\Sensitive\image_396 - Copy_resized_flipped_vertical.jpg,sensitive,image_396,train
+new_dataset_raw\Sensitive\image_396 - Copy_resized_resized.jpg,sensitive,image_396,train
+new_dataset_raw\Sensitive\image_396 - Copy_resized_rotated_180.jpg,sensitive,image_396,train
+new_dataset_raw\Sensitive\image_396 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_396,train
+new_dataset_raw\Sensitive\image_396 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_396,train
+new_dataset_raw\Sensitive\image_396 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_396,train
+new_dataset_raw\Sensitive\image_396 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_396,train
+new_dataset_raw\Sensitive\image_398 - Copy_resized_flipped_horizontal.jpg,sensitive,image_398,train
+new_dataset_raw\Sensitive\image_398 - Copy_resized_flipped_vertical.jpg,sensitive,image_398,train
+new_dataset_raw\Sensitive\image_398 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_398,train
+new_dataset_raw\Sensitive\image_398 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_398,train
+new_dataset_raw\Sensitive\image_398 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_398,train
+new_dataset_raw\Sensitive\image_398 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_398,train
+new_dataset_raw\Sensitive\image_400 - Copy_resized_flipped_horizontal.jpg,sensitive,image_400,train
+new_dataset_raw\Sensitive\image_400 - Copy_resized_flipped_vertical.jpg,sensitive,image_400,train
+new_dataset_raw\Sensitive\image_400 - Copy_resized_resized.jpg,sensitive,image_400,train
+new_dataset_raw\Sensitive\image_400 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_400,train
+new_dataset_raw\Sensitive\image_400 - Copy_resized_rotated_90.jpg,sensitive,image_400,train
+new_dataset_raw\Sensitive\image_400 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_400,train
+new_dataset_raw\Sensitive\image_400 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_400,train
+new_dataset_raw\Sensitive\image_406 - Copy_resized_flipped_vertical.jpg,sensitive,image_406,train
+new_dataset_raw\Sensitive\image_406 - Copy_resized_resized.jpg,sensitive,image_406,train
+new_dataset_raw\Sensitive\image_406 - Copy_resized_rotated_180.jpg,sensitive,image_406,train
+new_dataset_raw\Sensitive\image_406 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_406,train
+new_dataset_raw\Sensitive\image_406 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_406,train
+new_dataset_raw\Sensitive\image_406 - Copy_resized_rotated_90.jpg,sensitive,image_406,train
+new_dataset_raw\Sensitive\image_406 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_406,train
+new_dataset_raw\Sensitive\image_406 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_406,train
+new_dataset_raw\Sensitive\image_418 - Copy_resized_flipped_horizontal.jpg,sensitive,image_418,train
+new_dataset_raw\Sensitive\image_418 - Copy_resized_rotated_180.jpg,sensitive,image_418,train
+new_dataset_raw\Sensitive\image_418 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_418,train
+new_dataset_raw\Sensitive\image_418 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_418,train
+new_dataset_raw\Sensitive\image_418 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_418,train
+new_dataset_raw\Sensitive\image_418 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_418,train
+new_dataset_raw\Sensitive\image_441 - Copy_resized_rotated_180.jpg,sensitive,image_441,train
+new_dataset_raw\Sensitive\image_441 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_441,train
+new_dataset_raw\Sensitive\image_441 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_441,train
+new_dataset_raw\Sensitive\image_441 - Copy_resized_rotated_90.jpg,sensitive,image_441,train
+new_dataset_raw\Sensitive\image_441 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_441,train
+new_dataset_raw\Sensitive\image_441 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_441,train
+new_dataset_raw\Sensitive\image_498 - Copy_resized_flipped_horizontal.jpg,sensitive,image_498,train
+new_dataset_raw\Sensitive\image_498 - Copy_resized_flipped_vertical.jpg,sensitive,image_498,train
+new_dataset_raw\Sensitive\image_498 - Copy_resized_resized.jpg,sensitive,image_498,train
+new_dataset_raw\Sensitive\image_498 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_498,train
+new_dataset_raw\Sensitive\image_498 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_498,train
+new_dataset_raw\Sensitive\image_498 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_498,train
+new_dataset_raw\Sensitive\image_556 - Copy_resized_flipped_vertical.jpg,sensitive,image_556,train
+new_dataset_raw\Sensitive\image_556 - Copy_resized_resized.jpg,sensitive,image_556,train
+new_dataset_raw\Sensitive\image_556 - Copy_resized_rotated_180.jpg,sensitive,image_556,train
+new_dataset_raw\Sensitive\image_556 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_556,train
+new_dataset_raw\Sensitive\image_556 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_556,train
+new_dataset_raw\Sensitive\image_556 - Copy_resized_rotated_90.jpg,sensitive,image_556,train
+new_dataset_raw\Sensitive\image_605 - Copy_resized_flipped_vertical.jpg,sensitive,image_605,train
+new_dataset_raw\Sensitive\image_605 - Copy_resized_resized.jpg,sensitive,image_605,train
+new_dataset_raw\Sensitive\image_605 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_605,train
+new_dataset_raw\Sensitive\image_605 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_605,train
+new_dataset_raw\Sensitive\image_605 - Copy_resized_rotated_90.jpg,sensitive,image_605,train
+new_dataset_raw\Sensitive\image_605 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_605,train
+new_dataset_raw\Sensitive\image_605 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_605,train
+new_dataset_raw\Sensitive\image_609_resized_flipped_horizontal.jpg,sensitive,image_609,train
+new_dataset_raw\Sensitive\image_609_resized_flipped_vertical.jpg,sensitive,image_609,train
+new_dataset_raw\Sensitive\image_609_resized_resized.jpg,sensitive,image_609,train
+new_dataset_raw\Sensitive\image_609_resized_rotated_180.jpg,sensitive,image_609,train
+new_dataset_raw\Sensitive\image_609_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_609,train
+new_dataset_raw\Sensitive\image_609_resized_rotated_180_flipped_vertical.jpg,sensitive,image_609,train
+new_dataset_raw\Sensitive\image_609_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_609,train
+new_dataset_raw\Sensitive\image_609_resized_rotated_90_flipped_vertical.jpg,sensitive,image_609,train
+new_dataset_raw\Sensitive\image_612_resized_flipped_horizontal.jpg,sensitive,image_612,train
+new_dataset_raw\Sensitive\image_612_resized_flipped_vertical.jpg,sensitive,image_612,train
+new_dataset_raw\Sensitive\image_612_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_612,train
+new_dataset_raw\Sensitive\image_612_resized_rotated_180_flipped_vertical.jpg,sensitive,image_612,train
+new_dataset_raw\Sensitive\image_612_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_612,train
+new_dataset_raw\Sensitive\image_612_resized_rotated_90_flipped_vertical.jpg,sensitive,image_612,train
+new_dataset_raw\Sensitive\image_613_resized_flipped_horizontal.jpg,sensitive,image_613,train
+new_dataset_raw\Sensitive\image_613_resized_flipped_vertical.jpg,sensitive,image_613,train
+new_dataset_raw\Sensitive\image_613_resized_resized.jpg,sensitive,image_613,train
+new_dataset_raw\Sensitive\image_613_resized_rotated_180_flipped_vertical.jpg,sensitive,image_613,train
+new_dataset_raw\Sensitive\image_613_resized_rotated_90.jpg,sensitive,image_613,train
+new_dataset_raw\Sensitive\image_613_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_613,train
+new_dataset_raw\Sensitive\image_613_resized_rotated_90_flipped_vertical.jpg,sensitive,image_613,train
+new_dataset_raw\Sensitive\image_621_resized_flipped_vertical.jpg,sensitive,image_621,train
+new_dataset_raw\Sensitive\image_621_resized_resized.jpg,sensitive,image_621,train
+new_dataset_raw\Sensitive\image_621_resized_rotated_180.jpg,sensitive,image_621,train
+new_dataset_raw\Sensitive\image_621_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_621,train
+new_dataset_raw\Sensitive\image_621_resized_rotated_180_flipped_vertical.jpg,sensitive,image_621,train
+new_dataset_raw\Sensitive\image_621_resized_rotated_90.jpg,sensitive,image_621,train
+new_dataset_raw\Sensitive\image_621_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_621,train
+new_dataset_raw\Sensitive\image_621_resized_rotated_90_flipped_vertical.jpg,sensitive,image_621,train
+new_dataset_raw\Sensitive\image_623_resized_flipped_horizontal.jpg,sensitive,image_623,train
+new_dataset_raw\Sensitive\image_623_resized_rotated_180.jpg,sensitive,image_623,train
+new_dataset_raw\Sensitive\image_623_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_623,train
+new_dataset_raw\Sensitive\image_623_resized_rotated_180_flipped_vertical.jpg,sensitive,image_623,train
+new_dataset_raw\Sensitive\image_623_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_623,train
+new_dataset_raw\Sensitive\image_623_resized_rotated_90_flipped_vertical.jpg,sensitive,image_623,train
+new_dataset_raw\Sensitive\image_629_resized_flipped_horizontal.jpg,sensitive,image_629,train
+new_dataset_raw\Sensitive\image_629_resized_flipped_vertical.jpg,sensitive,image_629,train
+new_dataset_raw\Sensitive\image_629_resized_resized.jpg,sensitive,image_629,train
+new_dataset_raw\Sensitive\image_629_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_629,train
+new_dataset_raw\Sensitive\image_629_resized_rotated_180_flipped_vertical.jpg,sensitive,image_629,train
+new_dataset_raw\Sensitive\image_629_resized_rotated_90.jpg,sensitive,image_629,train
+new_dataset_raw\Sensitive\image_629_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_629,train
+new_dataset_raw\Sensitive\image_629_resized_rotated_90_flipped_vertical.jpg,sensitive,image_629,train
+new_dataset_raw\Sensitive\image_671_resized_flipped_horizontal.jpg,sensitive,image_671,train
+new_dataset_raw\Sensitive\image_671_resized_flipped_vertical.jpg,sensitive,image_671,train
+new_dataset_raw\Sensitive\image_671_resized_resized.jpg,sensitive,image_671,train
+new_dataset_raw\Sensitive\image_671_resized_rotated_180.jpg,sensitive,image_671,train
+new_dataset_raw\Sensitive\image_671_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_671,train
+new_dataset_raw\Sensitive\image_671_resized_rotated_180_flipped_vertical.jpg,sensitive,image_671,train
+new_dataset_raw\Sensitive\image_671_resized_rotated_90.jpg,sensitive,image_671,train
+new_dataset_raw\Sensitive\image_671_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_671,train
+new_dataset_raw\Sensitive\image_671_resized_rotated_90_flipped_vertical.jpg,sensitive,image_671,train
+new_dataset_raw\Sensitive\image_681_resized_flipped_vertical.jpg,sensitive,image_681,train
+new_dataset_raw\Sensitive\image_681_resized_resized.jpg,sensitive,image_681,train
+new_dataset_raw\Sensitive\image_681_resized_rotated_180.jpg,sensitive,image_681,train
+new_dataset_raw\Sensitive\image_681_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_681,train
+new_dataset_raw\Sensitive\image_681_resized_rotated_180_flipped_vertical.jpg,sensitive,image_681,train
+new_dataset_raw\Sensitive\image_681_resized_rotated_90.jpg,sensitive,image_681,train
+new_dataset_raw\Sensitive\image_681_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_681,train
+new_dataset_raw\Sensitive\image_681_resized_rotated_90_flipped_vertical.jpg,sensitive,image_681,train
+new_dataset_raw\Sensitive\image_716_resized_flipped_horizontal.jpg,sensitive,image_716,train
+new_dataset_raw\Sensitive\image_716_resized_flipped_vertical.jpg,sensitive,image_716,train
+new_dataset_raw\Sensitive\image_716_resized_resized.jpg,sensitive,image_716,train
+new_dataset_raw\Sensitive\image_716_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_716,train
+new_dataset_raw\Sensitive\image_716_resized_rotated_180_flipped_vertical.jpg,sensitive,image_716,train
+new_dataset_raw\Sensitive\image_716_resized_rotated_90.jpg,sensitive,image_716,train
+new_dataset_raw\Sensitive\image_716_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_716,train
+new_dataset_raw\Sensitive\image_716_resized_rotated_90_flipped_vertical.jpg,sensitive,image_716,train
+new_dataset_raw\Sensitive\image_731_resized_flipped_horizontal.jpg,sensitive,image_731,train
+new_dataset_raw\Sensitive\image_731_resized_flipped_vertical.jpg,sensitive,image_731,train
+new_dataset_raw\Sensitive\image_731_resized_resized.jpg,sensitive,image_731,train
+new_dataset_raw\Sensitive\image_731_resized_rotated_180.jpg,sensitive,image_731,train
+new_dataset_raw\Sensitive\image_731_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_731,train
+new_dataset_raw\Sensitive\image_731_resized_rotated_180_flipped_vertical.jpg,sensitive,image_731,train
+new_dataset_raw\Sensitive\image_731_resized_rotated_90.jpg,sensitive,image_731,train
+new_dataset_raw\Sensitive\image_731_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_731,train
+new_dataset_raw\Sensitive\image_731_resized_rotated_90_flipped_vertical.jpg,sensitive,image_731,train
+new_dataset_raw\Sensitive\image_756_resized_flipped_vertical.jpg,sensitive,image_756,train
+new_dataset_raw\Sensitive\image_756_resized_resized.jpg,sensitive,image_756,train
+new_dataset_raw\Sensitive\image_756_resized_rotated_180.jpg,sensitive,image_756,train
+new_dataset_raw\Sensitive\image_756_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_756,train
+new_dataset_raw\Sensitive\image_756_resized_rotated_180_flipped_vertical.jpg,sensitive,image_756,train
+new_dataset_raw\Sensitive\image_756_resized_rotated_90.jpg,sensitive,image_756,train
+new_dataset_raw\Sensitive\image_756_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_756,train
+new_dataset_raw\Sensitive\image_756_resized_rotated_90_flipped_vertical.jpg,sensitive,image_756,train
+new_dataset_raw\Sensitive\image_767_resized_flipped_horizontal.jpg,sensitive,image_767,train
+new_dataset_raw\Sensitive\image_767_resized_flipped_vertical.jpg,sensitive,image_767,train
+new_dataset_raw\Sensitive\image_767_resized_resized.jpg,sensitive,image_767,train
+new_dataset_raw\Sensitive\image_767_resized_rotated_180.jpg,sensitive,image_767,train
+new_dataset_raw\Sensitive\image_767_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_767,train
+new_dataset_raw\Sensitive\image_767_resized_rotated_180_flipped_vertical.jpg,sensitive,image_767,train
+new_dataset_raw\Sensitive\image_767_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_767,train
+new_dataset_raw\Sensitive\image_767_resized_rotated_90_flipped_vertical.jpg,sensitive,image_767,train
+new_dataset_raw\Sensitive\image_774_resized_flipped_horizontal.jpg,sensitive,image_774,train
+new_dataset_raw\Sensitive\image_774_resized_flipped_vertical.jpg,sensitive,image_774,train
+new_dataset_raw\Sensitive\image_774_resized_resized.jpg,sensitive,image_774,train
+new_dataset_raw\Sensitive\image_774_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_774,train
+new_dataset_raw\Sensitive\image_774_resized_rotated_180_flipped_vertical.jpg,sensitive,image_774,train
+new_dataset_raw\Sensitive\image_774_resized_rotated_90.jpg,sensitive,image_774,train
+new_dataset_raw\Sensitive\image_774_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_774,train
+new_dataset_raw\Sensitive\image_774_resized_rotated_90_flipped_vertical.jpg,sensitive,image_774,train
+new_dataset_raw\Sensitive\image_783_resized_flipped_horizontal.jpg,sensitive,image_783,train
+new_dataset_raw\Sensitive\image_783_resized_flipped_vertical.jpg,sensitive,image_783,train
+new_dataset_raw\Sensitive\image_783_resized_resized.jpg,sensitive,image_783,train
+new_dataset_raw\Sensitive\image_783_resized_rotated_180.jpg,sensitive,image_783,train
+new_dataset_raw\Sensitive\image_783_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_783,train
+new_dataset_raw\Sensitive\image_783_resized_rotated_180_flipped_vertical.jpg,sensitive,image_783,train
+new_dataset_raw\Sensitive\image_783_resized_rotated_90.jpg,sensitive,image_783,train
+new_dataset_raw\Sensitive\image_783_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_783,train
+new_dataset_raw\Sensitive\image_783_resized_rotated_90_flipped_vertical.jpg,sensitive,image_783,train
+new_dataset_raw\Sensitive\image_784_resized_flipped_vertical.jpg,sensitive,image_784,train
+new_dataset_raw\Sensitive\image_784_resized_resized.jpg,sensitive,image_784,train
+new_dataset_raw\Sensitive\image_784_resized_rotated_180.jpg,sensitive,image_784,train
+new_dataset_raw\Sensitive\image_784_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_784,train
+new_dataset_raw\Sensitive\image_784_resized_rotated_180_flipped_vertical.jpg,sensitive,image_784,train
+new_dataset_raw\Sensitive\image_784_resized_rotated_90.jpg,sensitive,image_784,train
+new_dataset_raw\Sensitive\image_784_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_784,train
+new_dataset_raw\Sensitive\image_784_resized_rotated_90_flipped_vertical.jpg,sensitive,image_784,train
+new_dataset_raw\Combination\acne-pustular-20_resized_flipped_vertical.jpg,combination,acne-pustular-20,train
+new_dataset_raw\Combination\acne-pustular-20_resized_resized.jpg,combination,acne-pustular-20,train
+new_dataset_raw\Combination\acne-pustular-20_resized_rotated_180.jpg,combination,acne-pustular-20,train
+new_dataset_raw\Combination\acne-pustular-20_resized_rotated_180_flipped_horizontal.jpg,combination,acne-pustular-20,train
+new_dataset_raw\Combination\acne-pustular-20_resized_rotated_180_flipped_vertical.jpg,combination,acne-pustular-20,train
+new_dataset_raw\Combination\acne-pustular-20_resized_rotated_90.jpg,combination,acne-pustular-20,train
+new_dataset_raw\Combination\acne-pustular-20_resized_rotated_90_flipped_horizontal.jpg,combination,acne-pustular-20,train
+new_dataset_raw\Combination\acne-pustular-20_resized_rotated_90_flipped_vertical.jpg,combination,acne-pustular-20,train
+new_dataset_raw\Combination\acne-pustular-21_resized_flipped_horizontal.jpg,combination,acne-pustular-21,train
+new_dataset_raw\Combination\acne-pustular-21_resized_flipped_vertical.jpg,combination,acne-pustular-21,train
+new_dataset_raw\Combination\acne-pustular-21_resized_resized.jpg,combination,acne-pustular-21,train
+new_dataset_raw\Combination\acne-pustular-21_resized_rotated_180.jpg,combination,acne-pustular-21,train
+new_dataset_raw\Combination\acne-pustular-21_resized_rotated_180_flipped_horizontal.jpg,combination,acne-pustular-21,train
+new_dataset_raw\Combination\acne-pustular-21_resized_rotated_180_flipped_vertical.jpg,combination,acne-pustular-21,train
+new_dataset_raw\Combination\acne-pustular-21_resized_rotated_90_flipped_horizontal.jpg,combination,acne-pustular-21,train
+new_dataset_raw\Combination\acne-pustular-21_resized_rotated_90_flipped_vertical.jpg,combination,acne-pustular-21,train
+new_dataset_raw\Combination\acne-pustular-67_resized_flipped_horizontal.jpg,combination,acne-pustular-67,train
+new_dataset_raw\Combination\acne-pustular-67_resized_flipped_vertical.jpg,combination,acne-pustular-67,train
+new_dataset_raw\Combination\acne-pustular-67_resized_resized.jpg,combination,acne-pustular-67,train
+new_dataset_raw\Combination\acne-pustular-67_resized_rotated_180_flipped_horizontal.jpg,combination,acne-pustular-67,train
+new_dataset_raw\Combination\acne-pustular-67_resized_rotated_180_flipped_vertical.jpg,combination,acne-pustular-67,train
+new_dataset_raw\Combination\acne-pustular-67_resized_rotated_90.jpg,combination,acne-pustular-67,train
+new_dataset_raw\Combination\acne-pustular-67_resized_rotated_90_flipped_horizontal.jpg,combination,acne-pustular-67,train
+new_dataset_raw\Combination\acne-pustular-67_resized_rotated_90_flipped_vertical.jpg,combination,acne-pustular-67,train
+new_dataset_raw\Combination\image_234_resized_flipped_horizontal.jpg,combination,image_234,train
+new_dataset_raw\Combination\image_234_resized_flipped_vertical.jpg,combination,image_234,train
+new_dataset_raw\Combination\image_234_resized_resized.jpg,combination,image_234,train
+new_dataset_raw\Combination\image_234_resized_rotated_180.jpg,combination,image_234,train
+new_dataset_raw\Combination\image_234_resized_rotated_180_flipped_horizontal.jpg,combination,image_234,train
+new_dataset_raw\Combination\image_234_resized_rotated_180_flipped_vertical.jpg,combination,image_234,train
+new_dataset_raw\Combination\image_234_resized_rotated_90.jpg,combination,image_234,train
+new_dataset_raw\Combination\image_234_resized_rotated_90_flipped_horizontal.jpg,combination,image_234,train
+new_dataset_raw\Combination\image_234_resized_rotated_90_flipped_vertical.jpg,combination,image_234,train
+new_dataset_raw\Combination\image_238_resized_flipped_vertical.jpg,combination,image_238,train
+new_dataset_raw\Combination\image_238_resized_resized.jpg,combination,image_238,train
+new_dataset_raw\Combination\image_238_resized_rotated_180.jpg,combination,image_238,train
+new_dataset_raw\Combination\image_238_resized_rotated_180_flipped_horizontal.jpg,combination,image_238,train
+new_dataset_raw\Combination\image_238_resized_rotated_180_flipped_vertical.jpg,combination,image_238,train
+new_dataset_raw\Combination\image_238_resized_rotated_90.jpg,combination,image_238,train
+new_dataset_raw\Combination\image_238_resized_rotated_90_flipped_horizontal.jpg,combination,image_238,train
+new_dataset_raw\Combination\image_238_resized_rotated_90_flipped_vertical.jpg,combination,image_238,train
+new_dataset_raw\Combination\image_281_resized_flipped_horizontal.jpg,combination,image_281,train
+new_dataset_raw\Combination\image_281_resized_flipped_vertical.jpg,combination,image_281,train
+new_dataset_raw\Combination\image_281_resized_resized.jpg,combination,image_281,train
+new_dataset_raw\Combination\image_281_resized_rotated_180.jpg,combination,image_281,train
+new_dataset_raw\Combination\image_281_resized_rotated_180_flipped_horizontal.jpg,combination,image_281,train
+new_dataset_raw\Combination\image_281_resized_rotated_180_flipped_vertical.jpg,combination,image_281,train
+new_dataset_raw\Combination\image_281_resized_rotated_90_flipped_horizontal.jpg,combination,image_281,train
+new_dataset_raw\Combination\image_281_resized_rotated_90_flipped_vertical.jpg,combination,image_281,train
+new_dataset_raw\Combination\image_283_resized_flipped_horizontal.jpg,combination,image_283,train
+new_dataset_raw\Combination\image_283_resized_flipped_vertical.jpg,combination,image_283,train
+new_dataset_raw\Combination\image_283_resized_resized.jpg,combination,image_283,train
+new_dataset_raw\Combination\image_283_resized_rotated_180_flipped_horizontal.jpg,combination,image_283,train
+new_dataset_raw\Combination\image_283_resized_rotated_180_flipped_vertical.jpg,combination,image_283,train
+new_dataset_raw\Combination\image_283_resized_rotated_90.jpg,combination,image_283,train
+new_dataset_raw\Combination\image_283_resized_rotated_90_flipped_horizontal.jpg,combination,image_283,train
+new_dataset_raw\Combination\image_283_resized_rotated_90_flipped_vertical.jpg,combination,image_283,train
+new_dataset_raw\Combination\image_284_resized_flipped_horizontal.jpg,combination,image_284,train
+new_dataset_raw\Combination\image_284_resized_flipped_vertical.jpg,combination,image_284,train
+new_dataset_raw\Combination\image_284_resized_resized.jpg,combination,image_284,train
+new_dataset_raw\Combination\image_284_resized_rotated_180.jpg,combination,image_284,train
+new_dataset_raw\Combination\image_284_resized_rotated_180_flipped_horizontal.jpg,combination,image_284,train
+new_dataset_raw\Combination\image_284_resized_rotated_180_flipped_vertical.jpg,combination,image_284,train
+new_dataset_raw\Combination\image_284_resized_rotated_90.jpg,combination,image_284,train
+new_dataset_raw\Combination\image_284_resized_rotated_90_flipped_horizontal.jpg,combination,image_284,train
+new_dataset_raw\Combination\image_284_resized_rotated_90_flipped_vertical.jpg,combination,image_284,train
+new_dataset_raw\Combination\image_290_resized_flipped_horizontal.jpg,combination,image_290,train
+new_dataset_raw\Combination\image_290_resized_flipped_vertical.jpg,combination,image_290,train
+new_dataset_raw\Combination\image_290_resized_resized.jpg,combination,image_290,train
+new_dataset_raw\Combination\image_290_resized_rotated_180.jpg,combination,image_290,train
+new_dataset_raw\Combination\image_290_resized_rotated_180_flipped_horizontal.jpg,combination,image_290,train
+new_dataset_raw\Combination\image_290_resized_rotated_180_flipped_vertical.jpg,combination,image_290,train
+new_dataset_raw\Combination\image_290_resized_rotated_90_flipped_horizontal.jpg,combination,image_290,train
+new_dataset_raw\Combination\image_290_resized_rotated_90_flipped_vertical.jpg,combination,image_290,train
+new_dataset_raw\Combination\image_315 - Copy_resized_flipped_horizontal.jpg,combination,image_315,train
+new_dataset_raw\Combination\image_315 - Copy_resized_flipped_vertical.jpg,combination,image_315,train
+new_dataset_raw\Combination\image_315 - Copy_resized_resized.jpg,combination,image_315,train
+new_dataset_raw\Combination\image_315 - Copy_resized_rotated_180.jpg,combination,image_315,train
+new_dataset_raw\Combination\image_315 - Copy_resized_rotated_180_flipped_horizontal.jpg,combination,image_315,train
+new_dataset_raw\Combination\image_315 - Copy_resized_rotated_180_flipped_vertical.jpg,combination,image_315,train
+new_dataset_raw\Combination\image_315 - Copy_resized_rotated_90.jpg,combination,image_315,train
+new_dataset_raw\Combination\image_315 - Copy_resized_rotated_90_flipped_horizontal.jpg,combination,image_315,train
+new_dataset_raw\Combination\image_315 - Copy_resized_rotated_90_flipped_vertical.jpg,combination,image_315,train
+new_dataset_raw\Combination\image_380 - Copy_resized_flipped_vertical.jpg,combination,image_380,train
+new_dataset_raw\Combination\image_380 - Copy_resized_resized.jpg,combination,image_380,train
+new_dataset_raw\Combination\image_380 - Copy_resized_rotated_180_flipped_vertical.jpg,combination,image_380,train
+new_dataset_raw\Combination\image_380 - Copy_resized_rotated_90.jpg,combination,image_380,train
+new_dataset_raw\Combination\image_380 - Copy_resized_rotated_90_flipped_horizontal.jpg,combination,image_380,train
+new_dataset_raw\Combination\image_380 - Copy_resized_rotated_90_flipped_vertical.jpg,combination,image_380,train
+new_dataset_raw\Combination\image_395 - Copy_resized_flipped_horizontal.jpg,combination,image_395,train
+new_dataset_raw\Combination\image_395 - Copy_resized_flipped_vertical.jpg,combination,image_395,train
+new_dataset_raw\Combination\image_395 - Copy_resized_resized.jpg,combination,image_395,train
+new_dataset_raw\Combination\image_395 - Copy_resized_rotated_180.jpg,combination,image_395,train
+new_dataset_raw\Combination\image_395 - Copy_resized_rotated_180_flipped_horizontal.jpg,combination,image_395,train
+new_dataset_raw\Combination\image_395 - Copy_resized_rotated_180_flipped_vertical.jpg,combination,image_395,train
+new_dataset_raw\Combination\image_395 - Copy_resized_rotated_90_flipped_horizontal.jpg,combination,image_395,train
+new_dataset_raw\Combination\image_395 - Copy_resized_rotated_90_flipped_vertical.jpg,combination,image_395,train
+new_dataset_raw\Combination\image_397 - Copy_resized_flipped_horizontal.jpg,combination,image_397,train
+new_dataset_raw\Combination\image_397 - Copy_resized_rotated_180_flipped_horizontal.jpg,combination,image_397,train
+new_dataset_raw\Combination\image_397 - Copy_resized_rotated_180_flipped_vertical.jpg,combination,image_397,train
+new_dataset_raw\Combination\image_397 - Copy_resized_rotated_90.jpg,combination,image_397,train
+new_dataset_raw\Combination\image_397 - Copy_resized_rotated_90_flipped_horizontal.jpg,combination,image_397,train
+new_dataset_raw\Combination\image_397 - Copy_resized_rotated_90_flipped_vertical.jpg,combination,image_397,train
+new_dataset_raw\Combination\image_413 - Copy_resized_flipped_horizontal.jpg,combination,image_413,train
+new_dataset_raw\Combination\image_413 - Copy_resized_flipped_vertical.jpg,combination,image_413,train
+new_dataset_raw\Combination\image_413 - Copy_resized_resized.jpg,combination,image_413,train
+new_dataset_raw\Combination\image_413 - Copy_resized_rotated_180_flipped_horizontal.jpg,combination,image_413,train
+new_dataset_raw\Combination\image_413 - Copy_resized_rotated_180_flipped_vertical.jpg,combination,image_413,train
+new_dataset_raw\Combination\image_413 - Copy_resized_rotated_90.jpg,combination,image_413,train
+new_dataset_raw\Combination\image_413 - Copy_resized_rotated_90_flipped_horizontal.jpg,combination,image_413,train
+new_dataset_raw\Combination\image_430 - Copy_resized_flipped_vertical.jpg,combination,image_430,train
+new_dataset_raw\Combination\image_430 - Copy_resized_resized.jpg,combination,image_430,train
+new_dataset_raw\Combination\image_430 - Copy_resized_rotated_180.jpg,combination,image_430,train
+new_dataset_raw\Combination\image_430 - Copy_resized_rotated_180_flipped_horizontal.jpg,combination,image_430,train
+new_dataset_raw\Combination\image_430 - Copy_resized_rotated_180_flipped_vertical.jpg,combination,image_430,train
+new_dataset_raw\Combination\image_430 - Copy_resized_rotated_90.jpg,combination,image_430,train
+new_dataset_raw\Combination\image_430 - Copy_resized_rotated_90_flipped_horizontal.jpg,combination,image_430,train
+new_dataset_raw\Combination\image_430 - Copy_resized_rotated_90_flipped_vertical.jpg,combination,image_430,train
+new_dataset_raw\Combination\image_431 - Copy_resized_resized.jpg,combination,image_431,train
+new_dataset_raw\Combination\image_431 - Copy_resized_rotated_180.jpg,combination,image_431,train
+new_dataset_raw\Combination\image_431 - Copy_resized_rotated_180_flipped_horizontal.jpg,combination,image_431,train
+new_dataset_raw\Combination\image_431 - Copy_resized_rotated_180_flipped_vertical.jpg,combination,image_431,train
+new_dataset_raw\Combination\image_431 - Copy_resized_rotated_90_flipped_horizontal.jpg,combination,image_431,train
+new_dataset_raw\Combination\image_431 - Copy_resized_rotated_90_flipped_vertical.jpg,combination,image_431,train
+new_dataset_raw\Combination\image_432 - Copy_resized_flipped_horizontal.jpg,combination,image_432,train
+new_dataset_raw\Combination\image_432 - Copy_resized_flipped_vertical.jpg,combination,image_432,train
+new_dataset_raw\Combination\image_432 - Copy_resized_resized.jpg,combination,image_432,train
+new_dataset_raw\Combination\image_432 - Copy_resized_rotated_180_flipped_horizontal.jpg,combination,image_432,train
+new_dataset_raw\Combination\image_432 - Copy_resized_rotated_180_flipped_vertical.jpg,combination,image_432,train
+new_dataset_raw\Combination\image_432 - Copy_resized_rotated_90.jpg,combination,image_432,train
+new_dataset_raw\Combination\image_434 - Copy_resized_flipped_horizontal.jpg,combination,image_434,train
+new_dataset_raw\Combination\image_434 - Copy_resized_flipped_vertical.jpg,combination,image_434,train
+new_dataset_raw\Combination\image_434 - Copy_resized_resized.jpg,combination,image_434,train
+new_dataset_raw\Combination\image_434 - Copy_resized_rotated_180.jpg,combination,image_434,train
+new_dataset_raw\Combination\image_434 - Copy_resized_rotated_180_flipped_horizontal.jpg,combination,image_434,train
+new_dataset_raw\Combination\image_434 - Copy_resized_rotated_90.jpg,combination,image_434,train
+new_dataset_raw\Combination\image_434 - Copy_resized_rotated_90_flipped_horizontal.jpg,combination,image_434,train
+new_dataset_raw\Combination\image_434 - Copy_resized_rotated_90_flipped_vertical.jpg,combination,image_434,train
+new_dataset_raw\Combination\image_442 - Copy_resized_resized.jpg,combination,image_442,train
+new_dataset_raw\Combination\image_442 - Copy_resized_rotated_180.jpg,combination,image_442,train
+new_dataset_raw\Combination\image_442 - Copy_resized_rotated_180_flipped_horizontal.jpg,combination,image_442,train
+new_dataset_raw\Combination\image_442 - Copy_resized_rotated_180_flipped_vertical.jpg,combination,image_442,train
+new_dataset_raw\Combination\image_442 - Copy_resized_rotated_90.jpg,combination,image_442,train
+new_dataset_raw\Combination\image_442 - Copy_resized_rotated_90_flipped_horizontal.jpg,combination,image_442,train
+new_dataset_raw\Combination\image_442 - Copy_resized_rotated_90_flipped_vertical.jpg,combination,image_442,train
+new_dataset_raw\Combination\image_443 - Copy_resized_flipped_horizontal.jpg,combination,image_443,train
+new_dataset_raw\Combination\image_443 - Copy_resized_flipped_vertical.jpg,combination,image_443,train
+new_dataset_raw\Combination\image_443 - Copy_resized_resized.jpg,combination,image_443,train
+new_dataset_raw\Combination\image_443 - Copy_resized_rotated_180.jpg,combination,image_443,train
+new_dataset_raw\Combination\image_443 - Copy_resized_rotated_180_flipped_horizontal.jpg,combination,image_443,train
+new_dataset_raw\Combination\image_443 - Copy_resized_rotated_180_flipped_vertical.jpg,combination,image_443,train
+new_dataset_raw\Combination\image_655_resized_flipped_vertical.jpg,combination,image_655,train
+new_dataset_raw\Combination\image_655_resized_resized.jpg,combination,image_655,train
+new_dataset_raw\Combination\image_655_resized_rotated_180.jpg,combination,image_655,train
+new_dataset_raw\Combination\image_655_resized_rotated_180_flipped_horizontal.jpg,combination,image_655,train
+new_dataset_raw\Combination\image_655_resized_rotated_180_flipped_vertical.jpg,combination,image_655,train
+new_dataset_raw\Combination\image_655_resized_rotated_90_flipped_vertical.jpg,combination,image_655,train
+new_dataset_raw\Combination\image_662_resized_flipped_horizontal.jpg,combination,image_662,train
+new_dataset_raw\Combination\image_662_resized_flipped_vertical.jpg,combination,image_662,train
+new_dataset_raw\Combination\image_662_resized_resized.jpg,combination,image_662,train
+new_dataset_raw\Combination\image_662_resized_rotated_180.jpg,combination,image_662,train
+new_dataset_raw\Combination\image_662_resized_rotated_90_flipped_horizontal.jpg,combination,image_662,train
+new_dataset_raw\Combination\image_662_resized_rotated_90_flipped_vertical.jpg,combination,image_662,train
+new_dataset_raw\Combination\image_663_resized_flipped_horizontal.jpg,combination,image_663,train
+new_dataset_raw\Combination\image_663_resized_flipped_vertical.jpg,combination,image_663,train
+new_dataset_raw\Combination\image_663_resized_resized.jpg,combination,image_663,train
+new_dataset_raw\Combination\image_663_resized_rotated_180_flipped_horizontal.jpg,combination,image_663,train
+new_dataset_raw\Combination\image_663_resized_rotated_180_flipped_vertical.jpg,combination,image_663,train
+new_dataset_raw\Combination\image_663_resized_rotated_90.jpg,combination,image_663,train
+new_dataset_raw\Combination\image_663_resized_rotated_90_flipped_horizontal.jpg,combination,image_663,train
+new_dataset_raw\Combination\image_663_resized_rotated_90_flipped_vertical.jpg,combination,image_663,train
+new_dataset_raw\Combination\image_664_resized_flipped_horizontal.jpg,combination,image_664,train
+new_dataset_raw\Combination\image_664_resized_flipped_vertical.jpg,combination,image_664,train
+new_dataset_raw\Combination\image_664_resized_rotated_180.jpg,combination,image_664,train
+new_dataset_raw\Combination\image_664_resized_rotated_180_flipped_horizontal.jpg,combination,image_664,train
+new_dataset_raw\Combination\image_664_resized_rotated_180_flipped_vertical.jpg,combination,image_664,train
+new_dataset_raw\Combination\image_664_resized_rotated_90_flipped_horizontal.jpg,combination,image_664,train
+new_dataset_raw\Combination\image_664_resized_rotated_90_flipped_vertical.jpg,combination,image_664,train
+new_dataset_raw\Combination\image_674_resized_flipped_vertical.jpg,combination,image_674,train
+new_dataset_raw\Combination\image_674_resized_resized.jpg,combination,image_674,train
+new_dataset_raw\Combination\image_674_resized_rotated_180_flipped_vertical.jpg,combination,image_674,train
+new_dataset_raw\Combination\image_674_resized_rotated_90.jpg,combination,image_674,train
+new_dataset_raw\Combination\image_674_resized_rotated_90_flipped_horizontal.jpg,combination,image_674,train
+new_dataset_raw\Combination\image_674_resized_rotated_90_flipped_vertical.jpg,combination,image_674,train
+new_dataset_raw\Combination\image_676_resized_flipped_horizontal.jpg,combination,image_676,train
+new_dataset_raw\Combination\image_676_resized_flipped_vertical.jpg,combination,image_676,train
+new_dataset_raw\Combination\image_676_resized_resized.jpg,combination,image_676,train
+new_dataset_raw\Combination\image_676_resized_rotated_180.jpg,combination,image_676,train
+new_dataset_raw\Combination\image_676_resized_rotated_180_flipped_horizontal.jpg,combination,image_676,train
+new_dataset_raw\Combination\image_676_resized_rotated_180_flipped_vertical.jpg,combination,image_676,train
+new_dataset_raw\Combination\image_676_resized_rotated_90_flipped_horizontal.jpg,combination,image_676,train
+new_dataset_raw\Combination\image_676_resized_rotated_90_flipped_vertical.jpg,combination,image_676,train
+new_dataset_raw\Combination\image_678_resized_flipped_horizontal.jpg,combination,image_678,train
+new_dataset_raw\Combination\image_678_resized_rotated_180_flipped_horizontal.jpg,combination,image_678,train
+new_dataset_raw\Combination\image_678_resized_rotated_180_flipped_vertical.jpg,combination,image_678,train
+new_dataset_raw\Combination\image_678_resized_rotated_90.jpg,combination,image_678,train
+new_dataset_raw\Combination\image_678_resized_rotated_90_flipped_horizontal.jpg,combination,image_678,train
+new_dataset_raw\Combination\image_678_resized_rotated_90_flipped_vertical.jpg,combination,image_678,train
+new_dataset_raw\Combination\image_679_resized_flipped_horizontal.jpg,combination,image_679,train
+new_dataset_raw\Combination\image_679_resized_flipped_vertical.jpg,combination,image_679,train
+new_dataset_raw\Combination\image_679_resized_resized.jpg,combination,image_679,train
+new_dataset_raw\Combination\image_679_resized_rotated_180_flipped_horizontal.jpg,combination,image_679,train
+new_dataset_raw\Combination\image_679_resized_rotated_180_flipped_vertical.jpg,combination,image_679,train
+new_dataset_raw\Combination\image_679_resized_rotated_90.jpg,combination,image_679,train
+new_dataset_raw\Combination\image_679_resized_rotated_90_flipped_horizontal.jpg,combination,image_679,train
+new_dataset_raw\Combination\image_683_resized_resized.jpg,combination,image_683,train
+new_dataset_raw\Combination\image_683_resized_rotated_180.jpg,combination,image_683,train
+new_dataset_raw\Combination\image_683_resized_rotated_180_flipped_horizontal.jpg,combination,image_683,train
+new_dataset_raw\Combination\image_683_resized_rotated_180_flipped_vertical.jpg,combination,image_683,train
+new_dataset_raw\Combination\image_683_resized_rotated_90_flipped_horizontal.jpg,combination,image_683,train
+new_dataset_raw\Combination\image_683_resized_rotated_90_flipped_vertical.jpg,combination,image_683,train
+new_dataset_raw\Combination\image_685_resized_flipped_horizontal.jpg,combination,image_685,train
+new_dataset_raw\Combination\image_685_resized_flipped_vertical.jpg,combination,image_685,train
+new_dataset_raw\Combination\image_685_resized_resized.jpg,combination,image_685,train
+new_dataset_raw\Combination\image_685_resized_rotated_180_flipped_horizontal.jpg,combination,image_685,train
+new_dataset_raw\Combination\image_685_resized_rotated_180_flipped_vertical.jpg,combination,image_685,train
+new_dataset_raw\Combination\image_685_resized_rotated_90.jpg,combination,image_685,train
+new_dataset_raw\Combination\image_690_resized_resized.jpg,combination,image_690,train
+new_dataset_raw\Combination\image_690_resized_rotated_180.jpg,combination,image_690,train
+new_dataset_raw\Combination\image_690_resized_rotated_180_flipped_horizontal.jpg,combination,image_690,train
+new_dataset_raw\Combination\image_690_resized_rotated_180_flipped_vertical.jpg,combination,image_690,train
+new_dataset_raw\Combination\image_690_resized_rotated_90.jpg,combination,image_690,train
+new_dataset_raw\Combination\image_690_resized_rotated_90_flipped_horizontal.jpg,combination,image_690,train
+new_dataset_raw\Combination\image_690_resized_rotated_90_flipped_vertical.jpg,combination,image_690,train
+new_dataset_raw\Combination\image_725_resized_flipped_horizontal.jpg,combination,image_725,train
+new_dataset_raw\Combination\image_725_resized_flipped_vertical.jpg,combination,image_725,train
+new_dataset_raw\Combination\image_725_resized_resized.jpg,combination,image_725,train
+new_dataset_raw\Combination\image_725_resized_rotated_180.jpg,combination,image_725,train
+new_dataset_raw\Combination\image_725_resized_rotated_180_flipped_horizontal.jpg,combination,image_725,train
+new_dataset_raw\Combination\image_725_resized_rotated_180_flipped_vertical.jpg,combination,image_725,train
+new_dataset_raw\Combination\image_726_resized_flipped_horizontal.jpg,combination,image_726,train
+new_dataset_raw\Combination\image_726_resized_flipped_vertical.jpg,combination,image_726,train
+new_dataset_raw\Combination\image_726_resized_resized.jpg,combination,image_726,train
+new_dataset_raw\Combination\image_726_resized_rotated_180_flipped_horizontal.jpg,combination,image_726,train
+new_dataset_raw\Combination\image_726_resized_rotated_90.jpg,combination,image_726,train
+new_dataset_raw\Combination\image_726_resized_rotated_90_flipped_horizontal.jpg,combination,image_726,train
+new_dataset_raw\Combination\image_726_resized_rotated_90_flipped_vertical.jpg,combination,image_726,train
+new_dataset_raw\Combination\image_727_resized_flipped_vertical.jpg,combination,image_727,train
+new_dataset_raw\Combination\image_727_resized_resized.jpg,combination,image_727,train
+new_dataset_raw\Combination\image_727_resized_rotated_180.jpg,combination,image_727,train
+new_dataset_raw\Combination\image_727_resized_rotated_180_flipped_horizontal.jpg,combination,image_727,train
+new_dataset_raw\Combination\image_727_resized_rotated_180_flipped_vertical.jpg,combination,image_727,train
+new_dataset_raw\Combination\image_727_resized_rotated_90.jpg,combination,image_727,train
+new_dataset_raw\Combination\image_727_resized_rotated_90_flipped_horizontal.jpg,combination,image_727,train
+new_dataset_raw\Combination\image_727_resized_rotated_90_flipped_vertical.jpg,combination,image_727,train
+new_dataset_raw\Combination\image_729_resized_flipped_vertical.jpg,combination,image_729,train
+new_dataset_raw\Combination\image_729_resized_resized.jpg,combination,image_729,train
+new_dataset_raw\Combination\image_729_resized_rotated_180.jpg,combination,image_729,train
+new_dataset_raw\Combination\image_729_resized_rotated_180_flipped_horizontal.jpg,combination,image_729,train
+new_dataset_raw\Combination\image_729_resized_rotated_180_flipped_vertical.jpg,combination,image_729,train
+new_dataset_raw\Combination\image_729_resized_rotated_90_flipped_vertical.jpg,combination,image_729,train
+new_dataset_raw\Combination\image_734_resized_flipped_horizontal.jpg,combination,image_734,train
+new_dataset_raw\Combination\image_734_resized_flipped_vertical.jpg,combination,image_734,train
+new_dataset_raw\Combination\image_734_resized_resized.jpg,combination,image_734,train
+new_dataset_raw\Combination\image_734_resized_rotated_180.jpg,combination,image_734,train
+new_dataset_raw\Combination\image_734_resized_rotated_90_flipped_horizontal.jpg,combination,image_734,train
+new_dataset_raw\Combination\image_734_resized_rotated_90_flipped_vertical.jpg,combination,image_734,train
+new_dataset_raw\Combination\image_735_resized_flipped_horizontal.jpg,combination,image_735,train
+new_dataset_raw\Combination\image_735_resized_flipped_vertical.jpg,combination,image_735,train
+new_dataset_raw\Combination\image_735_resized_resized.jpg,combination,image_735,train
+new_dataset_raw\Combination\image_735_resized_rotated_180_flipped_horizontal.jpg,combination,image_735,train
+new_dataset_raw\Combination\image_735_resized_rotated_180_flipped_vertical.jpg,combination,image_735,train
+new_dataset_raw\Combination\image_735_resized_rotated_90.jpg,combination,image_735,train
+new_dataset_raw\Combination\image_735_resized_rotated_90_flipped_horizontal.jpg,combination,image_735,train
+new_dataset_raw\Combination\image_735_resized_rotated_90_flipped_vertical.jpg,combination,image_735,train
+new_dataset_raw\Combination\image_738_resized_flipped_vertical.jpg,combination,image_738,train
+new_dataset_raw\Combination\image_738_resized_resized.jpg,combination,image_738,train
+new_dataset_raw\Combination\image_738_resized_rotated_180_flipped_vertical.jpg,combination,image_738,train
+new_dataset_raw\Combination\image_738_resized_rotated_90.jpg,combination,image_738,train
+new_dataset_raw\Combination\image_738_resized_rotated_90_flipped_horizontal.jpg,combination,image_738,train
+new_dataset_raw\Combination\image_738_resized_rotated_90_flipped_vertical.jpg,combination,image_738,train
+new_dataset_raw\Combination\image_751_resized_flipped_horizontal.jpg,combination,image_751,train
+new_dataset_raw\Combination\image_751_resized_flipped_vertical.jpg,combination,image_751,train
+new_dataset_raw\Combination\image_751_resized_resized.jpg,combination,image_751,train
+new_dataset_raw\Combination\image_751_resized_rotated_180.jpg,combination,image_751,train
+new_dataset_raw\Combination\image_751_resized_rotated_180_flipped_horizontal.jpg,combination,image_751,train
+new_dataset_raw\Combination\image_751_resized_rotated_180_flipped_vertical.jpg,combination,image_751,train
+new_dataset_raw\Combination\image_751_resized_rotated_90_flipped_horizontal.jpg,combination,image_751,train
+new_dataset_raw\Combination\image_751_resized_rotated_90_flipped_vertical.jpg,combination,image_751,train
+new_dataset_raw\Combination\image_763_resized_flipped_horizontal.jpg,combination,image_763,train
+new_dataset_raw\Combination\image_763_resized_flipped_vertical.jpg,combination,image_763,train
+new_dataset_raw\Combination\image_763_resized_resized.jpg,combination,image_763,train
+new_dataset_raw\Combination\image_763_resized_rotated_180_flipped_horizontal.jpg,combination,image_763,train
+new_dataset_raw\Combination\image_763_resized_rotated_180_flipped_vertical.jpg,combination,image_763,train
+new_dataset_raw\Combination\image_763_resized_rotated_90.jpg,combination,image_763,train
+new_dataset_raw\Combination\image_763_resized_rotated_90_flipped_horizontal.jpg,combination,image_763,train
+new_dataset_raw\Combination\image_764_resized_flipped_vertical.jpg,combination,image_764,train
+new_dataset_raw\Combination\image_764_resized_resized.jpg,combination,image_764,train
+new_dataset_raw\Combination\image_764_resized_rotated_180.jpg,combination,image_764,train
+new_dataset_raw\Combination\image_764_resized_rotated_180_flipped_horizontal.jpg,combination,image_764,train
+new_dataset_raw\Combination\image_764_resized_rotated_180_flipped_vertical.jpg,combination,image_764,train
+new_dataset_raw\Combination\image_764_resized_rotated_90.jpg,combination,image_764,train
+new_dataset_raw\Combination\image_764_resized_rotated_90_flipped_horizontal.jpg,combination,image_764,train
+new_dataset_raw\Combination\image_764_resized_rotated_90_flipped_vertical.jpg,combination,image_764,train
+new_dataset_raw\Dry\images (1)_resized_flipped_horizontal.jpg,dry,images (1),val
+new_dataset_raw\Dry\images (1)_resized_flipped_vertical.jpg,dry,images (1),val
+new_dataset_raw\Dry\images (1)_resized_resized.jpg,dry,images (1),val
+new_dataset_raw\Dry\images (1)_resized_rotated_180.jpg,dry,images (1),val
+new_dataset_raw\Dry\images (1)_resized_rotated_180_flipped_horizontal.jpg,dry,images (1),val
+new_dataset_raw\Dry\images (1)_resized_rotated_180_flipped_vertical.jpg,dry,images (1),val
+new_dataset_raw\Dry\images (1)_resized_rotated_90.jpg,dry,images (1),val
+new_dataset_raw\Dry\images (1)_resized_rotated_90_flipped_horizontal.jpg,dry,images (1),val
+new_dataset_raw\Dry\images (1)_resized_rotated_90_flipped_vertical.jpg,dry,images (1),val
+new_dataset_raw\Dry\images (11)_resized_flipped_horizontal.jpg,dry,images (11),val
+new_dataset_raw\Dry\images (11)_resized_flipped_vertical.jpg,dry,images (11),val
+new_dataset_raw\Dry\images (11)_resized_resized.jpg,dry,images (11),val
+new_dataset_raw\Dry\images (11)_resized_rotated_180.jpg,dry,images (11),val
+new_dataset_raw\Dry\images (11)_resized_rotated_180_flipped_horizontal.jpg,dry,images (11),val
+new_dataset_raw\Dry\images (11)_resized_rotated_180_flipped_vertical.jpg,dry,images (11),val
+new_dataset_raw\Dry\images (11)_resized_rotated_90_flipped_horizontal.jpg,dry,images (11),val
+new_dataset_raw\Dry\images (11)_resized_rotated_90_flipped_vertical.jpg,dry,images (11),val
+new_dataset_raw\Dry\images (21)_resized_flipped_horizontal.jpg,dry,images (21),val
+new_dataset_raw\Dry\images (21)_resized_flipped_vertical.jpg,dry,images (21),val
+new_dataset_raw\Dry\images (21)_resized_resized.jpg,dry,images (21),val
+new_dataset_raw\Dry\images (21)_resized_rotated_180.jpg,dry,images (21),val
+new_dataset_raw\Dry\images (21)_resized_rotated_180_flipped_horizontal.jpg,dry,images (21),val
+new_dataset_raw\Dry\images (21)_resized_rotated_180_flipped_vertical.jpg,dry,images (21),val
+new_dataset_raw\Dry\images (21)_resized_rotated_90.jpg,dry,images (21),val
+new_dataset_raw\Dry\images (21)_resized_rotated_90_flipped_horizontal.jpg,dry,images (21),val
+new_dataset_raw\Dry\images (21)_resized_rotated_90_flipped_vertical.jpg,dry,images (21),val
+new_dataset_raw\Dry\images (28)_resized_resized.jpg,dry,images (28),val
+new_dataset_raw\Dry\images (28)_resized_rotated_180_flipped_horizontal.jpg,dry,images (28),val
+new_dataset_raw\Dry\images (28)_resized_rotated_180_flipped_vertical.jpg,dry,images (28),val
+new_dataset_raw\Dry\images (28)_resized_rotated_90.jpg,dry,images (28),val
+new_dataset_raw\Dry\images (28)_resized_rotated_90_flipped_horizontal.jpg,dry,images (28),val
+new_dataset_raw\Dry\images (28)_resized_rotated_90_flipped_vertical.jpg,dry,images (28),val
+new_dataset_raw\Dry\images (34)_resized_flipped_vertical.jpg,dry,images (34),val
+new_dataset_raw\Dry\images (34)_resized_resized.jpg,dry,images (34),val
+new_dataset_raw\Dry\images (34)_resized_rotated_180.jpg,dry,images (34),val
+new_dataset_raw\Dry\images (34)_resized_rotated_180_flipped_horizontal.jpg,dry,images (34),val
+new_dataset_raw\Dry\images (34)_resized_rotated_180_flipped_vertical.jpg,dry,images (34),val
+new_dataset_raw\Dry\images (34)_resized_rotated_90.jpg,dry,images (34),val
+new_dataset_raw\Dry\images (34)_resized_rotated_90_flipped_horizontal.jpg,dry,images (34),val
+new_dataset_raw\Dry\images (34)_resized_rotated_90_flipped_vertical.jpg,dry,images (34),val
+new_dataset_raw\Dry\images (6)_resized_flipped_vertical.jpg,dry,images (6),val
+new_dataset_raw\Dry\images (6)_resized_resized.jpg,dry,images (6),val
+new_dataset_raw\Dry\images (6)_resized_rotated_180.jpg,dry,images (6),val
+new_dataset_raw\Dry\images (6)_resized_rotated_180_flipped_horizontal.jpg,dry,images (6),val
+new_dataset_raw\Dry\images (6)_resized_rotated_180_flipped_vertical.jpg,dry,images (6),val
+new_dataset_raw\Dry\images (6)_resized_rotated_90.jpg,dry,images (6),val
+new_dataset_raw\Dry\images (6)_resized_rotated_90_flipped_horizontal.jpg,dry,images (6),val
+new_dataset_raw\Dry\images (6)_resized_rotated_90_flipped_vertical.jpg,dry,images (6),val
+new_dataset_raw\Dry\istockphoto-467680200-612x612_resized_flipped_horizontal.jpg,dry,istockphoto-467680200-612x612,val
+new_dataset_raw\Dry\istockphoto-467680200-612x612_resized_flipped_vertical.jpg,dry,istockphoto-467680200-612x612,val
+new_dataset_raw\Dry\istockphoto-467680200-612x612_resized_resized.jpg,dry,istockphoto-467680200-612x612,val
+new_dataset_raw\Dry\istockphoto-467680200-612x612_resized_rotated_180.jpg,dry,istockphoto-467680200-612x612,val
+new_dataset_raw\Dry\istockphoto-467680200-612x612_resized_rotated_180_flipped_horizontal.jpg,dry,istockphoto-467680200-612x612,val
+new_dataset_raw\Dry\istockphoto-467680200-612x612_resized_rotated_180_flipped_vertical.jpg,dry,istockphoto-467680200-612x612,val
+new_dataset_raw\Dry\istockphoto-467680200-612x612_resized_rotated_90.jpg,dry,istockphoto-467680200-612x612,val
+new_dataset_raw\Normal\image_108.jpg,normal,image_108,val
+new_dataset_raw\Normal\image_109.jpg,normal,image_109,val
+new_dataset_raw\Normal\image_124.jpg,normal,image_124,val
+new_dataset_raw\Normal\image_143.jpg,normal,image_143,val
+new_dataset_raw\Normal\image_144.jpg,normal,image_144,val
+new_dataset_raw\Normal\image_172.jpg,normal,image_172,val
+new_dataset_raw\Normal\image_178.jpg,normal,image_178,val
+new_dataset_raw\Normal\image_18.jpg,normal,image_18,val
+new_dataset_raw\Normal\image_185.jpg,normal,image_185,val
+new_dataset_raw\Normal\image_191.jpg,normal,image_191,val
+new_dataset_raw\Normal\image_23.jpg,normal,image_23,val
+new_dataset_raw\Normal\image_237.jpg,normal,image_237,val
+new_dataset_raw\Normal\image_242.jpg,normal,image_242,val
+new_dataset_raw\Normal\image_245.jpg,normal,image_245,val
+new_dataset_raw\Normal\image_255.jpg,normal,image_255,val
+new_dataset_raw\Normal\image_260.jpg,normal,image_260,val
+new_dataset_raw\Normal\image_265.jpg,normal,image_265,val
+new_dataset_raw\Normal\image_268.jpg,normal,image_268,val
+new_dataset_raw\Normal\image_280.jpg,normal,image_280,val
+new_dataset_raw\Normal\image_291.jpg,normal,image_291,val
+new_dataset_raw\Normal\image_292.jpg,normal,image_292,val
+new_dataset_raw\Normal\image_295.jpg,normal,image_295,val
+new_dataset_raw\Normal\image_302.jpg,normal,image_302,val
+new_dataset_raw\Normal\image_310.jpg,normal,image_310,val
+new_dataset_raw\Normal\image_343.jpg,normal,image_343,val
+new_dataset_raw\Normal\image_347.jpg,normal,image_347,val
+new_dataset_raw\Normal\image_349.jpg,normal,image_349,val
+new_dataset_raw\Normal\image_353.jpg,normal,image_353,val
+new_dataset_raw\Normal\image_354.jpg,normal,image_354,val
+new_dataset_raw\Normal\image_384.jpg,normal,image_384,val
+new_dataset_raw\Normal\image_399.jpg,normal,image_399,val
+new_dataset_raw\Normal\image_415.jpg,normal,image_415,val
+new_dataset_raw\Normal\image_42.jpg,normal,image_42,val
+new_dataset_raw\Normal\image_427.jpg,normal,image_427,val
+new_dataset_raw\Normal\image_43.jpg,normal,image_43,val
+new_dataset_raw\Normal\image_439.jpg,normal,image_439,val
+new_dataset_raw\Normal\image_446.jpg,normal,image_446,val
+new_dataset_raw\Normal\image_449.jpg,normal,image_449,val
+new_dataset_raw\Normal\image_467.jpg,normal,image_467,val
+new_dataset_raw\Normal\image_477.jpg,normal,image_477,val
+new_dataset_raw\Normal\image_479.jpg,normal,image_479,val
+new_dataset_raw\Normal\image_483.jpg,normal,image_483,val
+new_dataset_raw\Normal\image_485.jpg,normal,image_485,val
+new_dataset_raw\Normal\image_491.jpg,normal,image_491,val
+new_dataset_raw\Normal\image_493.jpg,normal,image_493,val
+new_dataset_raw\Normal\image_66.jpg,normal,image_66,val
+new_dataset_raw\Normal\image_72.jpg,normal,image_72,val
+new_dataset_raw\Normal\image_89.jpg,normal,image_89,val
+new_dataset_raw\Oily\c111_resized_flipped_horizontal.jpg,oily,c111,val
+new_dataset_raw\Oily\c111_resized_flipped_vertical.jpg,oily,c111,val
+new_dataset_raw\Oily\c111_resized_resized.jpg,oily,c111,val
+new_dataset_raw\Oily\c111_resized_rotated_180_flipped_horizontal.jpg,oily,c111,val
+new_dataset_raw\Oily\c111_resized_rotated_180_flipped_vertical.jpg,oily,c111,val
+new_dataset_raw\Oily\c111_resized_rotated_90.jpg,oily,c111,val
+new_dataset_raw\Oily\c111_resized_rotated_90_flipped_horizontal.jpg,oily,c111,val
+new_dataset_raw\Oily\c111_resized_rotated_90_flipped_vertical.jpg,oily,c111,val
+new_dataset_raw\Oily\c15_resized_flipped_vertical.jpg,oily,c15,val
+new_dataset_raw\Oily\c15_resized_resized.jpg,oily,c15,val
+new_dataset_raw\Oily\c15_resized_rotated_180.jpg,oily,c15,val
+new_dataset_raw\Oily\c15_resized_rotated_180_flipped_horizontal.jpg,oily,c15,val
+new_dataset_raw\Oily\c15_resized_rotated_180_flipped_vertical.jpg,oily,c15,val
+new_dataset_raw\Oily\c15_resized_rotated_90.jpg,oily,c15,val
+new_dataset_raw\Oily\c15_resized_rotated_90_flipped_horizontal.jpg,oily,c15,val
+new_dataset_raw\Oily\c15_resized_rotated_90_flipped_vertical.jpg,oily,c15,val
+new_dataset_raw\Oily\c17_resized_flipped_horizontal.jpg,oily,c17,val
+new_dataset_raw\Oily\c17_resized_flipped_vertical.jpg,oily,c17,val
+new_dataset_raw\Oily\c17_resized_resized.jpg,oily,c17,val
+new_dataset_raw\Oily\c17_resized_rotated_180_flipped_horizontal.jpg,oily,c17,val
+new_dataset_raw\Oily\c17_resized_rotated_180_flipped_vertical.jpg,oily,c17,val
+new_dataset_raw\Oily\c17_resized_rotated_90.jpg,oily,c17,val
+new_dataset_raw\Oily\c17_resized_rotated_90_flipped_horizontal.jpg,oily,c17,val
+new_dataset_raw\Oily\c17_resized_rotated_90_flipped_vertical.jpg,oily,c17,val
+new_dataset_raw\Oily\c7_resized_flipped_horizontal.jpg,oily,c7,val
+new_dataset_raw\Oily\c7_resized_flipped_vertical.jpg,oily,c7,val
+new_dataset_raw\Oily\c7_resized_resized.jpg,oily,c7,val
+new_dataset_raw\Oily\c7_resized_rotated_180.jpg,oily,c7,val
+new_dataset_raw\Oily\c7_resized_rotated_180_flipped_horizontal.jpg,oily,c7,val
+new_dataset_raw\Oily\c7_resized_rotated_180_flipped_vertical.jpg,oily,c7,val
+new_dataset_raw\Oily\c7_resized_rotated_90_flipped_horizontal.jpg,oily,c7,val
+new_dataset_raw\Oily\c7_resized_rotated_90_flipped_vertical.jpg,oily,c7,val
+new_dataset_raw\Oily\c9_resized_flipped_horizontal.jpg,oily,c9,val
+new_dataset_raw\Oily\c9_resized_flipped_vertical.jpg,oily,c9,val
+new_dataset_raw\Oily\c9_resized_resized.jpg,oily,c9,val
+new_dataset_raw\Oily\c9_resized_rotated_180_flipped_horizontal.jpg,oily,c9,val
+new_dataset_raw\Oily\c9_resized_rotated_180_flipped_vertical.jpg,oily,c9,val
+new_dataset_raw\Oily\c9_resized_rotated_90.jpg,oily,c9,val
+new_dataset_raw\Oily\c9_resized_rotated_90_flipped_horizontal.jpg,oily,c9,val
+new_dataset_raw\Oily\c9_resized_rotated_90_flipped_vertical.jpg,oily,c9,val
+new_dataset_raw\Oily\download_resized_flipped_horizontal.jpg,oily,download,val
+new_dataset_raw\Oily\download_resized_flipped_vertical.jpg,oily,download,val
+new_dataset_raw\Oily\download_resized_resized.jpg,oily,download,val
+new_dataset_raw\Oily\download_resized_rotated_180.jpg,oily,download,val
+new_dataset_raw\Oily\download_resized_rotated_180_flipped_horizontal.jpg,oily,download,val
+new_dataset_raw\Oily\download_resized_rotated_180_flipped_vertical.jpg,oily,download,val
+new_dataset_raw\Oily\download_resized_rotated_90_flipped_horizontal.jpg,oily,download,val
+new_dataset_raw\Oily\download_resized_rotated_90_flipped_vertical.jpg,oily,download,val
+new_dataset_raw\Oily\images (1)_resized_flipped_horizontal.jpg,oily,images (1),val
+new_dataset_raw\Oily\images (1)_resized_flipped_vertical.jpg,oily,images (1),val
+new_dataset_raw\Oily\images (1)_resized_resized.jpg,oily,images (1),val
+new_dataset_raw\Oily\images (1)_resized_rotated_180.jpg,oily,images (1),val
+new_dataset_raw\Oily\images (1)_resized_rotated_180_flipped_horizontal.jpg,oily,images (1),val
+new_dataset_raw\Oily\images (1)_resized_rotated_180_flipped_vertical.jpg,oily,images (1),val
+new_dataset_raw\Oily\images (1)_resized_rotated_90.jpg,oily,images (1),val
+new_dataset_raw\Oily\istockphoto-1297524986-612x612_resized_flipped_horizontal.jpg,oily,istockphoto-1297524986-612x612,val
+new_dataset_raw\Oily\istockphoto-1297524986-612x612_resized_flipped_vertical.jpg,oily,istockphoto-1297524986-612x612,val
+new_dataset_raw\Oily\istockphoto-1297524986-612x612_resized_resized.jpg,oily,istockphoto-1297524986-612x612,val
+new_dataset_raw\Oily\istockphoto-1297524986-612x612_resized_rotated_90.jpg,oily,istockphoto-1297524986-612x612,val
+new_dataset_raw\Oily\istockphoto-1297524986-612x612_resized_rotated_90_flipped_horizontal.jpg,oily,istockphoto-1297524986-612x612,val
+new_dataset_raw\Oily\istockphoto-1297524986-612x612_resized_rotated_90_flipped_vertical.jpg,oily,istockphoto-1297524986-612x612,val
+new_dataset_raw\Oily\istockphoto-1528534238-612x612_resized_flipped_horizontal.jpg,oily,istockphoto-1528534238-612x612,val
+new_dataset_raw\Oily\istockphoto-1528534238-612x612_resized_flipped_vertical.jpg,oily,istockphoto-1528534238-612x612,val
+new_dataset_raw\Oily\istockphoto-1528534238-612x612_resized_resized.jpg,oily,istockphoto-1528534238-612x612,val
+new_dataset_raw\Oily\istockphoto-1528534238-612x612_resized_rotated_180.jpg,oily,istockphoto-1528534238-612x612,val
+new_dataset_raw\Oily\istockphoto-1528534238-612x612_resized_rotated_180_flipped_horizontal.jpg,oily,istockphoto-1528534238-612x612,val
+new_dataset_raw\Oily\istockphoto-1528534238-612x612_resized_rotated_180_flipped_vertical.jpg,oily,istockphoto-1528534238-612x612,val
+new_dataset_raw\Oily\istockphoto-1528534238-612x612_resized_rotated_90_flipped_horizontal.jpg,oily,istockphoto-1528534238-612x612,val
+new_dataset_raw\Oily\istockphoto-1528534238-612x612_resized_rotated_90_flipped_vertical.jpg,oily,istockphoto-1528534238-612x612,val
+new_dataset_raw\Oily\istockphoto-817319014-612x612_resized_flipped_horizontal.jpg,oily,istockphoto-817319014-612x612,val
+new_dataset_raw\Oily\istockphoto-817319014-612x612_resized_flipped_vertical.jpg,oily,istockphoto-817319014-612x612,val
+new_dataset_raw\Oily\istockphoto-817319014-612x612_resized_resized.jpg,oily,istockphoto-817319014-612x612,val
+new_dataset_raw\Oily\istockphoto-817319014-612x612_resized_rotated_180_flipped_horizontal.jpg,oily,istockphoto-817319014-612x612,val
+new_dataset_raw\Oily\istockphoto-817319014-612x612_resized_rotated_180_flipped_vertical.jpg,oily,istockphoto-817319014-612x612,val
+new_dataset_raw\Oily\istockphoto-817319014-612x612_resized_rotated_90_flipped_vertical.jpg,oily,istockphoto-817319014-612x612,val
+new_dataset_raw\Oily\istockphoto-846675168-612x612_resized_flipped_vertical.jpg,oily,istockphoto-846675168-612x612,val
+new_dataset_raw\Oily\istockphoto-846675168-612x612_resized_resized.jpg,oily,istockphoto-846675168-612x612,val
+new_dataset_raw\Oily\istockphoto-846675168-612x612_resized_rotated_180.jpg,oily,istockphoto-846675168-612x612,val
+new_dataset_raw\Oily\istockphoto-846675168-612x612_resized_rotated_180_flipped_horizontal.jpg,oily,istockphoto-846675168-612x612,val
+new_dataset_raw\Oily\istockphoto-846675168-612x612_resized_rotated_180_flipped_vertical.jpg,oily,istockphoto-846675168-612x612,val
+new_dataset_raw\Oily\istockphoto-846675168-612x612_resized_rotated_90.jpg,oily,istockphoto-846675168-612x612,val
+new_dataset_raw\Oily\istockphoto-846675168-612x612_resized_rotated_90_flipped_horizontal.jpg,oily,istockphoto-846675168-612x612,val
+new_dataset_raw\Oily\istockphoto-846675168-612x612_resized_rotated_90_flipped_vertical.jpg,oily,istockphoto-846675168-612x612,val
+new_dataset_raw\Oily\oily(71)_resized_flipped_horizontal.jpg,oily,oily(71),val
+new_dataset_raw\Oily\oily(71)_resized_flipped_vertical.jpg,oily,oily(71),val
+new_dataset_raw\Oily\oily(71)_resized_resized.jpg,oily,oily(71),val
+new_dataset_raw\Oily\oily(71)_resized_rotated_90.jpg,oily,oily(71),val
+new_dataset_raw\Oily\oily(71)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(71),val
+new_dataset_raw\Oily\oily(71)_resized_rotated_90_flipped_vertical.jpg,oily,oily(71),val
+new_dataset_raw\Oily\oily(80)_resized_flipped_horizontal.jpg,oily,oily(80),val
+new_dataset_raw\Oily\oily(80)_resized_flipped_vertical.jpg,oily,oily(80),val
+new_dataset_raw\Oily\oily(80)_resized_resized.jpg,oily,oily(80),val
+new_dataset_raw\Oily\oily(80)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(80),val
+new_dataset_raw\Oily\oily(80)_resized_rotated_180_flipped_vertical.jpg,oily,oily(80),val
+new_dataset_raw\Oily\oily(80)_resized_rotated_90.jpg,oily,oily(80),val
+new_dataset_raw\Oily\oily(80)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(80),val
+new_dataset_raw\Oily\oily(80)_resized_rotated_90_flipped_vertical.jpg,oily,oily(80),val
+new_dataset_raw\Oily\oily(85)_resized_flipped_horizontal.jpg,oily,oily(85),val
+new_dataset_raw\Oily\oily(85)_resized_flipped_vertical.jpg,oily,oily(85),val
+new_dataset_raw\Oily\oily(85)_resized_resized.jpg,oily,oily(85),val
+new_dataset_raw\Oily\oily(85)_resized_rotated_180.jpg,oily,oily(85),val
+new_dataset_raw\Oily\oily(85)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(85),val
+new_dataset_raw\Oily\oily(85)_resized_rotated_180_flipped_vertical.jpg,oily,oily(85),val
+new_dataset_raw\Oily\oily(85)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(85),val
+new_dataset_raw\Oily\oily(85)_resized_rotated_90_flipped_vertical.jpg,oily,oily(85),val
+new_dataset_raw\Oily\oily(88)_resized_flipped_horizontal.jpg,oily,oily(88),val
+new_dataset_raw\Oily\oily(88)_resized_flipped_vertical.jpg,oily,oily(88),val
+new_dataset_raw\Oily\oily(88)_resized_resized.jpg,oily,oily(88),val
+new_dataset_raw\Oily\oily(88)_resized_rotated_180.jpg,oily,oily(88),val
+new_dataset_raw\Oily\oily(88)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(88),val
+new_dataset_raw\Oily\oily(88)_resized_rotated_180_flipped_vertical.jpg,oily,oily(88),val
+new_dataset_raw\Oily\oily(88)_resized_rotated_90.jpg,oily,oily(88),val
+new_dataset_raw\Oily\oily(89)_resized_flipped_vertical.jpg,oily,oily(89),val
+new_dataset_raw\Oily\oily(89)_resized_resized.jpg,oily,oily(89),val
+new_dataset_raw\Oily\oily(89)_resized_rotated_180.jpg,oily,oily(89),val
+new_dataset_raw\Oily\oily(89)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(89),val
+new_dataset_raw\Oily\oily(89)_resized_rotated_90.jpg,oily,oily(89),val
+new_dataset_raw\Oily\oily(89)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(89),val
+new_dataset_raw\Oily\oily(89)_resized_rotated_90_flipped_vertical.jpg,oily,oily(89),val
+new_dataset_raw\Sensitive\image_301_resized_flipped_horizontal.jpg,sensitive,image_301,val
+new_dataset_raw\Sensitive\image_301_resized_flipped_vertical.jpg,sensitive,image_301,val
+new_dataset_raw\Sensitive\image_301_resized_resized.jpg,sensitive,image_301,val
+new_dataset_raw\Sensitive\image_301_resized_rotated_180.jpg,sensitive,image_301,val
+new_dataset_raw\Sensitive\image_301_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_301,val
+new_dataset_raw\Sensitive\image_301_resized_rotated_180_flipped_vertical.jpg,sensitive,image_301,val
+new_dataset_raw\Sensitive\image_301_resized_rotated_90.jpg,sensitive,image_301,val
+new_dataset_raw\Sensitive\image_301_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_301,val
+new_dataset_raw\Sensitive\image_301_resized_rotated_90_flipped_vertical.jpg,sensitive,image_301,val
+new_dataset_raw\Sensitive\image_310 - Copy_resized_flipped_horizontal.jpg,sensitive,image_310,val
+new_dataset_raw\Sensitive\image_310 - Copy_resized_flipped_vertical.jpg,sensitive,image_310,val
+new_dataset_raw\Sensitive\image_310 - Copy_resized_resized.jpg,sensitive,image_310,val
+new_dataset_raw\Sensitive\image_310 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_310,val
+new_dataset_raw\Sensitive\image_310 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_310,val
+new_dataset_raw\Sensitive\image_310 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_310,val
+new_dataset_raw\Sensitive\image_384 - Copy_resized_flipped_vertical.jpg,sensitive,image_384,val
+new_dataset_raw\Sensitive\image_384 - Copy_resized_resized.jpg,sensitive,image_384,val
+new_dataset_raw\Sensitive\image_384 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_384,val
+new_dataset_raw\Sensitive\image_384 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_384,val
+new_dataset_raw\Sensitive\image_384 - Copy_resized_rotated_90.jpg,sensitive,image_384,val
+new_dataset_raw\Sensitive\image_384 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_384,val
+new_dataset_raw\Sensitive\image_384 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_384,val
+new_dataset_raw\Sensitive\image_507 - Copy_resized_flipped_horizontal.jpg,sensitive,image_507,val
+new_dataset_raw\Sensitive\image_507 - Copy_resized_flipped_vertical.jpg,sensitive,image_507,val
+new_dataset_raw\Sensitive\image_507 - Copy_resized_resized.jpg,sensitive,image_507,val
+new_dataset_raw\Sensitive\image_507 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_507,val
+new_dataset_raw\Sensitive\image_507 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_507,val
+new_dataset_raw\Sensitive\image_507 - Copy_resized_rotated_90.jpg,sensitive,image_507,val
+new_dataset_raw\Sensitive\image_507 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_507,val
+new_dataset_raw\Sensitive\image_507 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_507,val
+new_dataset_raw\Sensitive\image_557 - Copy_resized_flipped_horizontal.jpg,sensitive,image_557,val
+new_dataset_raw\Sensitive\image_557 - Copy_resized_flipped_vertical.jpg,sensitive,image_557,val
+new_dataset_raw\Sensitive\image_557 - Copy_resized_resized.jpg,sensitive,image_557,val
+new_dataset_raw\Sensitive\image_557 - Copy_resized_rotated_180.jpg,sensitive,image_557,val
+new_dataset_raw\Sensitive\image_557 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_557,val
+new_dataset_raw\Sensitive\image_557 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_557,val
+new_dataset_raw\Sensitive\image_557 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_557,val
+new_dataset_raw\Sensitive\Screenshot 2023-05-26 204612_resized_flipped_horizontal.jpg,sensitive,Screenshot 2023-05-26 204612,val
+new_dataset_raw\Sensitive\Screenshot 2023-05-26 204612_resized_flipped_vertical.jpg,sensitive,Screenshot 2023-05-26 204612,val
+new_dataset_raw\Sensitive\Screenshot 2023-05-26 204612_resized_resized.jpg,sensitive,Screenshot 2023-05-26 204612,val
+new_dataset_raw\Sensitive\Screenshot 2023-05-26 204612_resized_rotated_180.jpg,sensitive,Screenshot 2023-05-26 204612,val
+new_dataset_raw\Sensitive\Screenshot 2023-05-26 204612_resized_rotated_180_flipped_horizontal.jpg,sensitive,Screenshot 2023-05-26 204612,val
+new_dataset_raw\Sensitive\Screenshot 2023-05-26 204612_resized_rotated_180_flipped_vertical.jpg,sensitive,Screenshot 2023-05-26 204612,val
+new_dataset_raw\Sensitive\Screenshot 2023-05-26 204612_resized_rotated_90_flipped_horizontal.jpg,sensitive,Screenshot 2023-05-26 204612,val
+new_dataset_raw\Sensitive\Screenshot 2023-05-26 204612_resized_rotated_90_flipped_vertical.jpg,sensitive,Screenshot 2023-05-26 204612,val
+new_dataset_raw\Combination\image_295_resized_flipped_horizontal.jpg,combination,image_295,val
+new_dataset_raw\Combination\image_295_resized_flipped_vertical.jpg,combination,image_295,val
+new_dataset_raw\Combination\image_295_resized_resized.jpg,combination,image_295,val
+new_dataset_raw\Combination\image_295_resized_rotated_180_flipped_horizontal.jpg,combination,image_295,val
+new_dataset_raw\Combination\image_295_resized_rotated_180_flipped_vertical.jpg,combination,image_295,val
+new_dataset_raw\Combination\image_295_resized_rotated_90.jpg,combination,image_295,val
+new_dataset_raw\Combination\image_295_resized_rotated_90_flipped_horizontal.jpg,combination,image_295,val
+new_dataset_raw\Combination\image_295_resized_rotated_90_flipped_vertical.jpg,combination,image_295,val
+new_dataset_raw\Combination\image_575 - Copy_resized_flipped_vertical.jpg,combination,image_575,val
+new_dataset_raw\Combination\image_575 - Copy_resized_resized.jpg,combination,image_575,val
+new_dataset_raw\Combination\image_575 - Copy_resized_rotated_180.jpg,combination,image_575,val
+new_dataset_raw\Combination\image_575 - Copy_resized_rotated_180_flipped_horizontal.jpg,combination,image_575,val
+new_dataset_raw\Combination\image_575 - Copy_resized_rotated_180_flipped_vertical.jpg,combination,image_575,val
+new_dataset_raw\Combination\image_575 - Copy_resized_rotated_90.jpg,combination,image_575,val
+new_dataset_raw\Combination\image_575 - Copy_resized_rotated_90_flipped_horizontal.jpg,combination,image_575,val
+new_dataset_raw\Combination\image_575 - Copy_resized_rotated_90_flipped_vertical.jpg,combination,image_575,val
+new_dataset_raw\Combination\image_680_resized_flipped_vertical.jpg,combination,image_680,val
+new_dataset_raw\Combination\image_680_resized_resized.jpg,combination,image_680,val
+new_dataset_raw\Combination\image_680_resized_rotated_180.jpg,combination,image_680,val
+new_dataset_raw\Combination\image_680_resized_rotated_180_flipped_horizontal.jpg,combination,image_680,val
+new_dataset_raw\Combination\image_680_resized_rotated_180_flipped_vertical.jpg,combination,image_680,val
+new_dataset_raw\Combination\image_680_resized_rotated_90.jpg,combination,image_680,val
+new_dataset_raw\Combination\image_680_resized_rotated_90_flipped_horizontal.jpg,combination,image_680,val
+new_dataset_raw\Combination\image_680_resized_rotated_90_flipped_vertical.jpg,combination,image_680,val
+new_dataset_raw\Combination\image_736_resized_flipped_horizontal.jpg,combination,image_736,val
+new_dataset_raw\Combination\image_736_resized_flipped_vertical.jpg,combination,image_736,val
+new_dataset_raw\Combination\image_736_resized_rotated_180.jpg,combination,image_736,val
+new_dataset_raw\Combination\image_736_resized_rotated_180_flipped_horizontal.jpg,combination,image_736,val
+new_dataset_raw\Combination\image_736_resized_rotated_180_flipped_vertical.jpg,combination,image_736,val
+new_dataset_raw\Combination\image_736_resized_rotated_90_flipped_horizontal.jpg,combination,image_736,val
+new_dataset_raw\Combination\image_736_resized_rotated_90_flipped_vertical.jpg,combination,image_736,val
+new_dataset_raw\Combination\oily(15)_resized_resized.jpg,combination,oily(15),val
+new_dataset_raw\Combination\oily(15)_resized_rotated_180.jpg,combination,oily(15),val
+new_dataset_raw\Combination\oily(15)_resized_rotated_180_flipped_horizontal.jpg,combination,oily(15),val
+new_dataset_raw\Combination\oily(15)_resized_rotated_180_flipped_vertical.jpg,combination,oily(15),val
+new_dataset_raw\Combination\oily(15)_resized_rotated_90_flipped_horizontal.jpg,combination,oily(15),val
+new_dataset_raw\Combination\oily(15)_resized_rotated_90_flipped_vertical.jpg,combination,oily(15),val
+new_dataset_raw\Dry\dry(40)_resized_flipped_horizontal.jpg,dry,dry(40),test
+new_dataset_raw\Dry\dry(40)_resized_flipped_vertical.jpg,dry,dry(40),test
+new_dataset_raw\Dry\dry(40)_resized_resized.jpg,dry,dry(40),test
+new_dataset_raw\Dry\dry(40)_resized_rotated_180_flipped_horizontal.jpg,dry,dry(40),test
+new_dataset_raw\Dry\dry(40)_resized_rotated_180_flipped_vertical.jpg,dry,dry(40),test
+new_dataset_raw\Dry\dry(40)_resized_rotated_90.jpg,dry,dry(40),test
+new_dataset_raw\Dry\dry(40)_resized_rotated_90_flipped_horizontal.jpg,dry,dry(40),test
+new_dataset_raw\Dry\dry(40)_resized_rotated_90_flipped_vertical.jpg,dry,dry(40),test
+new_dataset_raw\Dry\images (16)_resized_flipped_horizontal.jpg,dry,images (16),test
+new_dataset_raw\Dry\images (16)_resized_flipped_vertical.jpg,dry,images (16),test
+new_dataset_raw\Dry\images (16)_resized_resized.jpg,dry,images (16),test
+new_dataset_raw\Dry\images (16)_resized_rotated_180_flipped_horizontal.jpg,dry,images (16),test
+new_dataset_raw\Dry\images (16)_resized_rotated_180_flipped_vertical.jpg,dry,images (16),test
+new_dataset_raw\Dry\images (16)_resized_rotated_90_flipped_vertical.jpg,dry,images (16),test
+new_dataset_raw\Dry\images (18)_resized_flipped_vertical.jpg,dry,images (18),test
+new_dataset_raw\Dry\images (18)_resized_resized.jpg,dry,images (18),test
+new_dataset_raw\Dry\images (18)_resized_rotated_180.jpg,dry,images (18),test
+new_dataset_raw\Dry\images (18)_resized_rotated_180_flipped_horizontal.jpg,dry,images (18),test
+new_dataset_raw\Dry\images (18)_resized_rotated_180_flipped_vertical.jpg,dry,images (18),test
+new_dataset_raw\Dry\images (18)_resized_rotated_90.jpg,dry,images (18),test
+new_dataset_raw\Dry\images (18)_resized_rotated_90_flipped_horizontal.jpg,dry,images (18),test
+new_dataset_raw\Dry\images (18)_resized_rotated_90_flipped_vertical.jpg,dry,images (18),test
+new_dataset_raw\Dry\images (22)_resized_flipped_vertical.jpg,dry,images (22),test
+new_dataset_raw\Dry\images (22)_resized_rotated_180.jpg,dry,images (22),test
+new_dataset_raw\Dry\images (22)_resized_rotated_180_flipped_horizontal.jpg,dry,images (22),test
+new_dataset_raw\Dry\images (22)_resized_rotated_180_flipped_vertical.jpg,dry,images (22),test
+new_dataset_raw\Dry\images (22)_resized_rotated_90_flipped_horizontal.jpg,dry,images (22),test
+new_dataset_raw\Dry\images (22)_resized_rotated_90_flipped_vertical.jpg,dry,images (22),test
+new_dataset_raw\Dry\images (23)_resized_flipped_horizontal.jpg,dry,images (23),test
+new_dataset_raw\Dry\images (23)_resized_flipped_vertical.jpg,dry,images (23),test
+new_dataset_raw\Dry\images (23)_resized_resized.jpg,dry,images (23),test
+new_dataset_raw\Dry\images (23)_resized_rotated_180_flipped_vertical.jpg,dry,images (23),test
+new_dataset_raw\Dry\images (23)_resized_rotated_90_flipped_horizontal.jpg,dry,images (23),test
+new_dataset_raw\Dry\images (23)_resized_rotated_90_flipped_vertical.jpg,dry,images (23),test
+new_dataset_raw\Dry\images (37)_resized_flipped_horizontal.jpg,dry,images (37),test
+new_dataset_raw\Dry\images (37)_resized_flipped_vertical.jpg,dry,images (37),test
+new_dataset_raw\Dry\images (37)_resized_resized.jpg,dry,images (37),test
+new_dataset_raw\Dry\images (37)_resized_rotated_180.jpg,dry,images (37),test
+new_dataset_raw\Dry\images (37)_resized_rotated_180_flipped_horizontal.jpg,dry,images (37),test
+new_dataset_raw\Dry\images (37)_resized_rotated_180_flipped_vertical.jpg,dry,images (37),test
+new_dataset_raw\Dry\images (37)_resized_rotated_90.jpg,dry,images (37),test
+new_dataset_raw\Dry\images (37)_resized_rotated_90_flipped_horizontal.jpg,dry,images (37),test
+new_dataset_raw\Dry\images (37)_resized_rotated_90_flipped_vertical.jpg,dry,images (37),test
+new_dataset_raw\Dry\images (38)_resized_flipped_vertical.jpg,dry,images (38),test
+new_dataset_raw\Dry\images (38)_resized_rotated_180.jpg,dry,images (38),test
+new_dataset_raw\Dry\images (38)_resized_rotated_180_flipped_horizontal.jpg,dry,images (38),test
+new_dataset_raw\Dry\images (38)_resized_rotated_180_flipped_vertical.jpg,dry,images (38),test
+new_dataset_raw\Dry\images (38)_resized_rotated_90_flipped_horizontal.jpg,dry,images (38),test
+new_dataset_raw\Dry\images (38)_resized_rotated_90_flipped_vertical.jpg,dry,images (38),test
+new_dataset_raw\Dry\Prendre soin d’une peau sèche_resized_flipped_vertical.jpg,dry,Prendre soin d’une peau sèche,test
+new_dataset_raw\Dry\Prendre soin d’une peau sèche_resized_resized.jpg,dry,Prendre soin d’une peau sèche,test
+new_dataset_raw\Dry\Prendre soin d’une peau sèche_resized_rotated_180.jpg,dry,Prendre soin d’une peau sèche,test
+new_dataset_raw\Dry\Prendre soin d’une peau sèche_resized_rotated_180_flipped_horizontal.jpg,dry,Prendre soin d’une peau sèche,test
+new_dataset_raw\Dry\Prendre soin d’une peau sèche_resized_rotated_180_flipped_vertical.jpg,dry,Prendre soin d’une peau sèche,test
+new_dataset_raw\Dry\Prendre soin d’une peau sèche_resized_rotated_90_flipped_horizontal.jpg,dry,Prendre soin d’une peau sèche,test
+new_dataset_raw\Dry\Prendre soin d’une peau sèche_resized_rotated_90_flipped_vertical.jpg,dry,Prendre soin d’une peau sèche,test
+new_dataset_raw\Normal\image_102.jpg,normal,image_102,test
+new_dataset_raw\Normal\image_103.jpg,normal,image_103,test
+new_dataset_raw\Normal\image_116.jpg,normal,image_116,test
+new_dataset_raw\Normal\image_121.jpg,normal,image_121,test
+new_dataset_raw\Normal\image_131.jpg,normal,image_131,test
+new_dataset_raw\Normal\image_142.jpg,normal,image_142,test
+new_dataset_raw\Normal\image_153.jpg,normal,image_153,test
+new_dataset_raw\Normal\image_156.jpg,normal,image_156,test
+new_dataset_raw\Normal\image_158.jpg,normal,image_158,test
+new_dataset_raw\Normal\image_159.jpg,normal,image_159,test
+new_dataset_raw\Normal\image_160.jpg,normal,image_160,test
+new_dataset_raw\Normal\image_166.jpg,normal,image_166,test
+new_dataset_raw\Normal\image_167.jpg,normal,image_167,test
+new_dataset_raw\Normal\image_169.jpg,normal,image_169,test
+new_dataset_raw\Normal\image_17.jpg,normal,image_17,test
+new_dataset_raw\Normal\image_170.jpg,normal,image_170,test
+new_dataset_raw\Normal\image_171.jpg,normal,image_171,test
+new_dataset_raw\Normal\image_181.jpg,normal,image_181,test
+new_dataset_raw\Normal\image_199.jpg,normal,image_199,test
+new_dataset_raw\Normal\image_205.jpg,normal,image_205,test
+new_dataset_raw\Normal\image_216.jpg,normal,image_216,test
+new_dataset_raw\Normal\image_22.jpg,normal,image_22,test
+new_dataset_raw\Normal\image_231.jpg,normal,image_231,test
+new_dataset_raw\Normal\image_236.jpg,normal,image_236,test
+new_dataset_raw\Normal\image_261.jpg,normal,image_261,test
+new_dataset_raw\Normal\image_285.jpg,normal,image_285,test
+new_dataset_raw\Normal\image_289.jpg,normal,image_289,test
+new_dataset_raw\Normal\image_298.jpg,normal,image_298,test
+new_dataset_raw\Normal\image_321.jpg,normal,image_321,test
+new_dataset_raw\Normal\image_33.jpg,normal,image_33,test
+new_dataset_raw\Normal\image_330.jpg,normal,image_330,test
+new_dataset_raw\Normal\image_332.jpg,normal,image_332,test
+new_dataset_raw\Normal\image_333.jpg,normal,image_333,test
+new_dataset_raw\Normal\image_358.jpg,normal,image_358,test
+new_dataset_raw\Normal\image_377.jpg,normal,image_377,test
+new_dataset_raw\Normal\image_390.jpg,normal,image_390,test
+new_dataset_raw\Normal\image_393.jpg,normal,image_393,test
+new_dataset_raw\Normal\image_409.jpg,normal,image_409,test
+new_dataset_raw\Normal\image_412.jpg,normal,image_412,test
+new_dataset_raw\Normal\image_424.jpg,normal,image_424,test
+new_dataset_raw\Normal\image_425.jpg,normal,image_425,test
+new_dataset_raw\Normal\image_440.jpg,normal,image_440,test
+new_dataset_raw\Normal\image_455.jpg,normal,image_455,test
+new_dataset_raw\Normal\image_461.jpg,normal,image_461,test
+new_dataset_raw\Normal\image_468.jpg,normal,image_468,test
+new_dataset_raw\Normal\image_475.jpg,normal,image_475,test
+new_dataset_raw\Normal\image_476.jpg,normal,image_476,test
+new_dataset_raw\Normal\image_48.jpg,normal,image_48,test
+new_dataset_raw\Normal\image_487.jpg,normal,image_487,test
+new_dataset_raw\Normal\image_490.jpg,normal,image_490,test
+new_dataset_raw\Normal\image_53.jpg,normal,image_53,test
+new_dataset_raw\Normal\image_70.jpg,normal,image_70,test
+new_dataset_raw\Normal\image_77.jpg,normal,image_77,test
+new_dataset_raw\Normal\image_78.jpg,normal,image_78,test
+new_dataset_raw\Normal\image_80.jpg,normal,image_80,test
+new_dataset_raw\Normal\image_90.jpg,normal,image_90,test
+new_dataset_raw\Normal\image_96.jpg,normal,image_96,test
+new_dataset_raw\Oily\c16_resized_flipped_horizontal.jpg,oily,c16,test
+new_dataset_raw\Oily\c16_resized_flipped_vertical.jpg,oily,c16,test
+new_dataset_raw\Oily\c16_resized_resized.jpg,oily,c16,test
+new_dataset_raw\Oily\c16_resized_rotated_180.jpg,oily,c16,test
+new_dataset_raw\Oily\c16_resized_rotated_180_flipped_horizontal.jpg,oily,c16,test
+new_dataset_raw\Oily\c16_resized_rotated_180_flipped_vertical.jpg,oily,c16,test
+new_dataset_raw\Oily\c16_resized_rotated_90_flipped_horizontal.jpg,oily,c16,test
+new_dataset_raw\Oily\c16_resized_rotated_90_flipped_vertical.jpg,oily,c16,test
+new_dataset_raw\Oily\download (1)_resized_flipped_vertical.jpg,oily,download (1),test
+new_dataset_raw\Oily\download (1)_resized_resized.jpg,oily,download (1),test
+new_dataset_raw\Oily\download (1)_resized_rotated_180_flipped_horizontal.jpg,oily,download (1),test
+new_dataset_raw\Oily\download (1)_resized_rotated_180_flipped_vertical.jpg,oily,download (1),test
+new_dataset_raw\Oily\download (1)_resized_rotated_90.jpg,oily,download (1),test
+new_dataset_raw\Oily\download (1)_resized_rotated_90_flipped_horizontal.jpg,oily,download (1),test
+new_dataset_raw\Oily\oily(56)_resized_flipped_horizontal.jpg,oily,oily(56),test
+new_dataset_raw\Oily\oily(56)_resized_flipped_vertical.jpg,oily,oily(56),test
+new_dataset_raw\Oily\oily(56)_resized_resized.jpg,oily,oily(56),test
+new_dataset_raw\Oily\oily(56)_resized_rotated_180.jpg,oily,oily(56),test
+new_dataset_raw\Oily\oily(56)_resized_rotated_90.jpg,oily,oily(56),test
+new_dataset_raw\Oily\oily(56)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(56),test
+new_dataset_raw\Oily\oily(56)_resized_rotated_90_flipped_vertical.jpg,oily,oily(56),test
+new_dataset_raw\Oily\oily(59)_resized_flipped_vertical.jpg,oily,oily(59),test
+new_dataset_raw\Oily\oily(59)_resized_resized.jpg,oily,oily(59),test
+new_dataset_raw\Oily\oily(59)_resized_rotated_180.jpg,oily,oily(59),test
+new_dataset_raw\Oily\oily(59)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(59),test
+new_dataset_raw\Oily\oily(59)_resized_rotated_180_flipped_vertical.jpg,oily,oily(59),test
+new_dataset_raw\Oily\oily(59)_resized_rotated_90.jpg,oily,oily(59),test
+new_dataset_raw\Oily\oily(59)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(59),test
+new_dataset_raw\Oily\oily(59)_resized_rotated_90_flipped_vertical.jpg,oily,oily(59),test
+new_dataset_raw\Oily\oily(64)_resized_flipped_horizontal.jpg,oily,oily(64),test
+new_dataset_raw\Oily\oily(64)_resized_flipped_vertical.jpg,oily,oily(64),test
+new_dataset_raw\Oily\oily(64)_resized_rotated_180.jpg,oily,oily(64),test
+new_dataset_raw\Oily\oily(64)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(64),test
+new_dataset_raw\Oily\oily(64)_resized_rotated_180_flipped_vertical.jpg,oily,oily(64),test
+new_dataset_raw\Oily\oily(64)_resized_rotated_90_flipped_vertical.jpg,oily,oily(64),test
+new_dataset_raw\Oily\oily(84)_resized_flipped_vertical.jpg,oily,oily(84),test
+new_dataset_raw\Oily\oily(84)_resized_resized.jpg,oily,oily(84),test
+new_dataset_raw\Oily\oily(84)_resized_rotated_180_flipped_horizontal.jpg,oily,oily(84),test
+new_dataset_raw\Oily\oily(84)_resized_rotated_180_flipped_vertical.jpg,oily,oily(84),test
+new_dataset_raw\Oily\oily(84)_resized_rotated_90.jpg,oily,oily(84),test
+new_dataset_raw\Oily\oily(84)_resized_rotated_90_flipped_horizontal.jpg,oily,oily(84),test
+new_dataset_raw\Sensitive\image_22_resized_flipped_vertical.jpg,sensitive,image_22,test
+new_dataset_raw\Sensitive\image_22_resized_resized.jpg,sensitive,image_22,test
+new_dataset_raw\Sensitive\image_22_resized_rotated_180.jpg,sensitive,image_22,test
+new_dataset_raw\Sensitive\image_22_resized_rotated_90.jpg,sensitive,image_22,test
+new_dataset_raw\Sensitive\image_22_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_22,test
+new_dataset_raw\Sensitive\image_22_resized_rotated_90_flipped_vertical.jpg,sensitive,image_22,test
+new_dataset_raw\Sensitive\image_236_resized_flipped_horizontal.jpg,sensitive,image_236,test
+new_dataset_raw\Sensitive\image_236_resized_rotated_180.jpg,sensitive,image_236,test
+new_dataset_raw\Sensitive\image_236_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_236,test
+new_dataset_raw\Sensitive\image_236_resized_rotated_180_flipped_vertical.jpg,sensitive,image_236,test
+new_dataset_raw\Sensitive\image_236_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_236,test
+new_dataset_raw\Sensitive\image_236_resized_rotated_90_flipped_vertical.jpg,sensitive,image_236,test
+new_dataset_raw\Sensitive\image_314 - Copy_resized_flipped_horizontal.jpg,sensitive,image_314,test
+new_dataset_raw\Sensitive\image_314 - Copy_resized_flipped_vertical.jpg,sensitive,image_314,test
+new_dataset_raw\Sensitive\image_314 - Copy_resized_resized.jpg,sensitive,image_314,test
+new_dataset_raw\Sensitive\image_314 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_314,test
+new_dataset_raw\Sensitive\image_314 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_314,test
+new_dataset_raw\Sensitive\image_314 - Copy_resized_rotated_90.jpg,sensitive,image_314,test
+new_dataset_raw\Sensitive\image_314 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_314,test
+new_dataset_raw\Sensitive\image_314 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_314,test
+new_dataset_raw\Sensitive\image_425 - Copy_resized_flipped_horizontal.jpg,sensitive,image_425,test
+new_dataset_raw\Sensitive\image_425 - Copy_resized_flipped_vertical.jpg,sensitive,image_425,test
+new_dataset_raw\Sensitive\image_425 - Copy_resized_resized.jpg,sensitive,image_425,test
+new_dataset_raw\Sensitive\image_425 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_425,test
+new_dataset_raw\Sensitive\image_425 - Copy_resized_rotated_90.jpg,sensitive,image_425,test
+new_dataset_raw\Sensitive\image_425 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_425,test
+new_dataset_raw\Sensitive\image_440 - Copy_resized_flipped_horizontal.jpg,sensitive,image_440,test
+new_dataset_raw\Sensitive\image_440 - Copy_resized_flipped_vertical.jpg,sensitive,image_440,test
+new_dataset_raw\Sensitive\image_440 - Copy_resized_resized.jpg,sensitive,image_440,test
+new_dataset_raw\Sensitive\image_440 - Copy_resized_rotated_180.jpg,sensitive,image_440,test
+new_dataset_raw\Sensitive\image_440 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_440,test
+new_dataset_raw\Sensitive\image_440 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_440,test
+new_dataset_raw\Sensitive\image_440 - Copy_resized_rotated_90.jpg,sensitive,image_440,test
+new_dataset_raw\Sensitive\image_440 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_440,test
+new_dataset_raw\Sensitive\image_440 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_440,test
+new_dataset_raw\Sensitive\image_521 - Copy_resized_resized.jpg,sensitive,image_521,test
+new_dataset_raw\Sensitive\image_521 - Copy_resized_rotated_180.jpg,sensitive,image_521,test
+new_dataset_raw\Sensitive\image_521 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_521,test
+new_dataset_raw\Sensitive\image_521 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_521,test
+new_dataset_raw\Sensitive\image_521 - Copy_resized_rotated_90.jpg,sensitive,image_521,test
+new_dataset_raw\Sensitive\image_521 - Copy_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_521,test
+new_dataset_raw\Sensitive\image_521 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_521,test
+new_dataset_raw\Sensitive\image_608 - Copy_resized_flipped_horizontal.jpg,sensitive,image_608,test
+new_dataset_raw\Sensitive\image_608 - Copy_resized_flipped_vertical.jpg,sensitive,image_608,test
+new_dataset_raw\Sensitive\image_608 - Copy_resized_resized.jpg,sensitive,image_608,test
+new_dataset_raw\Sensitive\image_608 - Copy_resized_rotated_180.jpg,sensitive,image_608,test
+new_dataset_raw\Sensitive\image_608 - Copy_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_608,test
+new_dataset_raw\Sensitive\image_608 - Copy_resized_rotated_180_flipped_vertical.jpg,sensitive,image_608,test
+new_dataset_raw\Sensitive\image_608 - Copy_resized_rotated_90_flipped_vertical.jpg,sensitive,image_608,test
+new_dataset_raw\Sensitive\image_608_resized_flipped_vertical.jpg,sensitive,image_608,test
+new_dataset_raw\Sensitive\image_608_resized_resized.jpg,sensitive,image_608,test
+new_dataset_raw\Sensitive\image_608_resized_rotated_180.jpg,sensitive,image_608,test
+new_dataset_raw\Sensitive\image_608_resized_rotated_90.jpg,sensitive,image_608,test
+new_dataset_raw\Sensitive\image_608_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_608,test
+new_dataset_raw\Sensitive\image_608_resized_rotated_90_flipped_vertical.jpg,sensitive,image_608,test
+new_dataset_raw\Sensitive\image_698_resized_flipped_horizontal.jpg,sensitive,image_698,test
+new_dataset_raw\Sensitive\image_698_resized_flipped_vertical.jpg,sensitive,image_698,test
+new_dataset_raw\Sensitive\image_698_resized_resized.jpg,sensitive,image_698,test
+new_dataset_raw\Sensitive\image_698_resized_rotated_180.jpg,sensitive,image_698,test
+new_dataset_raw\Sensitive\image_698_resized_rotated_180_flipped_horizontal.jpg,sensitive,image_698,test
+new_dataset_raw\Sensitive\image_698_resized_rotated_180_flipped_vertical.jpg,sensitive,image_698,test
+new_dataset_raw\Sensitive\image_698_resized_rotated_90_flipped_horizontal.jpg,sensitive,image_698,test
+new_dataset_raw\Sensitive\image_698_resized_rotated_90_flipped_vertical.jpg,sensitive,image_698,test
+new_dataset_raw\Combination\image_285_resized_flipped_vertical.jpg,combination,image_285,test
+new_dataset_raw\Combination\image_285_resized_resized.jpg,combination,image_285,test
+new_dataset_raw\Combination\image_285_resized_rotated_180.jpg,combination,image_285,test
+new_dataset_raw\Combination\image_285_resized_rotated_180_flipped_horizontal.jpg,combination,image_285,test
+new_dataset_raw\Combination\image_285_resized_rotated_180_flipped_vertical.jpg,combination,image_285,test
+new_dataset_raw\Combination\image_285_resized_rotated_90.jpg,combination,image_285,test
+new_dataset_raw\Combination\image_285_resized_rotated_90_flipped_horizontal.jpg,combination,image_285,test
+new_dataset_raw\Combination\image_285_resized_rotated_90_flipped_vertical.jpg,combination,image_285,test
+new_dataset_raw\Combination\image_552 - Copy_resized_flipped_horizontal.jpg,combination,image_552,test
+new_dataset_raw\Combination\image_552 - Copy_resized_flipped_vertical.jpg,combination,image_552,test
+new_dataset_raw\Combination\image_552 - Copy_resized_resized.jpg,combination,image_552,test
+new_dataset_raw\Combination\image_552 - Copy_resized_rotated_180_flipped_horizontal.jpg,combination,image_552,test
+new_dataset_raw\Combination\image_552 - Copy_resized_rotated_90.jpg,combination,image_552,test
+new_dataset_raw\Combination\image_552 - Copy_resized_rotated_90_flipped_horizontal.jpg,combination,image_552,test
+new_dataset_raw\Combination\image_552 - Copy_resized_rotated_90_flipped_vertical.jpg,combination,image_552,test
+new_dataset_raw\Combination\image_686_resized_flipped_horizontal.jpg,combination,image_686,test
+new_dataset_raw\Combination\image_686_resized_flipped_vertical.jpg,combination,image_686,test
+new_dataset_raw\Combination\image_686_resized_resized.jpg,combination,image_686,test
+new_dataset_raw\Combination\image_686_resized_rotated_180.jpg,combination,image_686,test
+new_dataset_raw\Combination\image_686_resized_rotated_180_flipped_horizontal.jpg,combination,image_686,test
+new_dataset_raw\Combination\image_686_resized_rotated_90.jpg,combination,image_686,test
+new_dataset_raw\Combination\image_686_resized_rotated_90_flipped_horizontal.jpg,combination,image_686,test
+new_dataset_raw\Combination\image_686_resized_rotated_90_flipped_vertical.jpg,combination,image_686,test
+new_dataset_raw\Combination\image_757_resized_flipped_horizontal.jpg,combination,image_757,test
+new_dataset_raw\Combination\image_757_resized_rotated_180_flipped_horizontal.jpg,combination,image_757,test
+new_dataset_raw\Combination\image_757_resized_rotated_180_flipped_vertical.jpg,combination,image_757,test
+new_dataset_raw\Combination\image_757_resized_rotated_90.jpg,combination,image_757,test
+new_dataset_raw\Combination\image_757_resized_rotated_90_flipped_horizontal.jpg,combination,image_757,test
+new_dataset_raw\Combination\image_757_resized_rotated_90_flipped_vertical.jpg,combination,image_757,test
